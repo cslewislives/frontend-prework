@@ -1,8 +1,8 @@
 # Variables and Loops
 
-Java is syntactically similar to JavaScript. We’re going to learn some Java fundamentals in this lesson.
+Java is syntactically similar to JavaScript. We’re going to learn some Java fundamentals in this lesson.
 
-Some of this may feel like review, but pay careful attention to the differences between Java and JavaScript.  
+Some of this may feel like review, but pay careful attention to the differences between Java and JavaScript.
 
 ## Java vs. JavaScript
 
@@ -12,7 +12,7 @@ Java is used on the backend of applications, i.e. the server, to build an **API*
 
 ### Variables
 
-When it comes to variables in JavaScript you don't need to declare the data type that the variable will contain. Java on the other hand is what is known as a **strongly-typed** language.  Which means that variables are bound to _specific_ data types, and will result in **type** errors if types do not match up as expected in the expression — regardless of when **type** checking occurs.
+When it comes to variables in JavaScript you don't need to declare the data type that the variable will contain. Java on the other hand is what is known as a **strongly-typed** language. Which means that variables are bound to _specific_ data types, and will result in **type** errors if types do not match up as expected in the expression — regardless of when **type** checking occurs.
 
 For example:
 
@@ -40,11 +40,11 @@ int[] numArr = {1, 2, 3, 4};
 
 JavaScript also allows you to change the content of a variable. Java does not.
 
-![](../../.gitbook/assets/image%20%28108%29.png)
+![](https://github.com/cslewislives/frontend-prework/tree/7c7bc1ab2155c31482f755a757c91f4efcc6e770/.gitbook/assets/image%20%28108%29.png)
 
 JavaScript also has a value that is assigned to all uninitialized variables, `undefined`, Java does not.
 
-![](../../.gitbook/assets/image%20%2870%29.png)
+![](https://github.com/cslewislives/frontend-prework/tree/7c7bc1ab2155c31482f755a757c91f4efcc6e770/.gitbook/assets/image%20%2870%29.png)
 
 {% hint style="info" %}
 `System.out.println()`is used the same as `console.log()`
@@ -58,7 +58,7 @@ For Loops in Java will look very similar to For Loops in JavaScript:
 {% tab title="JavaScript" %}
 ```javascript
 for (let i = 0; i < 5; i++){
-	console.log(i)
+    console.log(i)
 }
 ```
 {% endtab %}
@@ -66,7 +66,7 @@ for (let i = 0; i < 5; i++){
 {% tab title="Java" %}
 ```java
 for (int i = 0; i < 5; i++){
-	System.out.println(i);
+    System.out.println(i);
 }
 ```
 {% endtab %}
@@ -82,7 +82,7 @@ When iterating over an array there are similarities as well:
 let numArr = [1,2,3,4,5,6]
 
 for (let i = 0; i < numArr.length; i++){
-	console.log(numArr[i])
+    console.log(numArr[i])
 }
 ```
 {% endtab %}
@@ -92,7 +92,7 @@ for (let i = 0; i < numArr.length; i++){
 int[] numArr = {1,2,3,4,5,6};
 
 for (int i = 0; i < numArr.length; i++){
-	System.out.println(numArr[i]);
+    System.out.println(numArr[i]);
 }
 ```
 {% endtab %}

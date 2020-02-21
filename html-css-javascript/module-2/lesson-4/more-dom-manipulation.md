@@ -1,14 +1,14 @@
 # Callbacks and Events
 
-### **What, Why, and When**
+## **What, Why, and When**
 
 Callback functions are functions that are passed as parameters to another function to be invoked later.
 
 Every time you want to run code triggered by an event, a callback function is being used.
 
-Sometimes we want an action to take place only when the user does something, like a drop down that appears when the user clicks a button. 
+Sometimes we want an action to take place only when the user does something, like a drop down that appears when the user clicks a button.
 
-### Callbacks
+## Callbacks
 
 Any variable can be passed to a function as a parameter regardless of type. This means we can pass booleans, Strings, arrays, or even _functions_
 
@@ -41,11 +41,11 @@ greeting('Sam', printName);
 
 You may wonder "why not just make one function that writes `"Welcome ' + name`."
 
-This is a contrived example to demonstrate _how_ a callback function works. Callback functions are used when we need to wait for something to happen before our callback function runs. 
+This is a contrived example to demonstrate _how_ a callback function works. Callback functions are used when we need to wait for something to happen before our callback function runs.
 
 For example, we may want to wait for a user to click on a button before we log them in.
 
-### Event Listeners
+## Event Listeners
 
 Now that you've covered callbacks, it'll be a lot easier to understand **event listeners**.
 
@@ -57,17 +57,17 @@ Look at the following code:
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Event 1</title>
+    <title>Event 1</title>
 </head>
 <body>
 
 <script type="text/javascript">
 
-	const myFunction = function () {
-		console.log('you pushed a button');
-	}
+    const myFunction = function () {
+        console.log('you pushed a button');
+    }
 
-	document.addEventListener('keyup', myFunction);
+    document.addEventListener('keyup', myFunction);
 </script>
 </body>
 </html>
@@ -79,17 +79,17 @@ Look at the following code:
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Event 2</title>
+    <title>Event 2</title>
 </head>
 <body>
 
 <script type="text/javascript">
 
-	const myFunction = function (event) {
-		console.log(event);
-	}
+    const myFunction = function (event) {
+        console.log(event);
+    }
 
-	document.addEventListener('keyup', myFunction);
+    document.addEventListener('keyup', myFunction);
 </script>
 </body>
 </html>
@@ -101,17 +101,17 @@ Look at the following code:
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Event 3</title>
+    <title>Event 3</title>
 </head>
 <body>
 
 <script type="text/javascript">
 
-	const myFunction = function (event) {
-		console.log(event.key);
-	}
+    const myFunction = function (event) {
+        console.log(event.key);
+    }
 
-	document.addEventListener('keyup', myFunction);
+    document.addEventListener('keyup', myFunction);
 </script>
 </body>
 </html>
@@ -123,23 +123,23 @@ Look at the following code:
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Event 4</title>
+    <title>Event 4</title>
 </head>
 <body>
 
 <script type="text/javascript">
 
-	const myFunction = function (event) {
-		const key = event.key;
-		if (key === 'r') {
-			document.write('You pressed R');
-		}
-		else {
-			document.write('You pressed the wrong button');
-		}
-	}
-	
-	document.addEventListener('keyup', myFunction);
+    const myFunction = function (event) {
+        const key = event.key;
+        if (key === 'r') {
+            document.write('You pressed R');
+        }
+        else {
+            document.write('You pressed the wrong button');
+        }
+    }
+
+    document.addEventListener('keyup', myFunction);
 </script>
 </body>
 </html>

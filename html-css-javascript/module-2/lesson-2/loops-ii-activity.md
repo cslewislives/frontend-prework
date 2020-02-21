@@ -1,8 +1,8 @@
 # Loops II - Activity
 
-![Loops](../../../.gitbook/assets/image%20%2837%29.png)
+![Loops](https://github.com/cslewislives/frontend-prework/tree/7c7bc1ab2155c31482f755a757c91f4efcc6e770/.gitbook/assets/image%20%2837%29.png)
 
-Make sure you attempt the activity on your own before checking out the solution. 
+Make sure you attempt the activity on your own before checking out the solution.
 
 {% tabs %}
 {% tab title="Instructions" %}
@@ -65,6 +65,4 @@ for (let i = 0; i < challengeList.length; i++) {
 ```
 {% endtab %}
 {% endtabs %}
-
-
 

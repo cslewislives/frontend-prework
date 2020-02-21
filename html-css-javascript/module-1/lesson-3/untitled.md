@@ -4,7 +4,7 @@ description: Order Matters!
 
 # Multiple CSS/Reset CSS
 
-### Multiple CSS
+## Multiple CSS
 
 Within HTML you can link multiple stylesheets like so:
 
@@ -14,9 +14,9 @@ Within HTML you can link multiple stylesheets like so:
 <link  rel="stylesheet" type="text\css" href="style3.css">
 ```
 
-Important to note that whichever stylesheet is linked **last** will take precedence over the earlier stylesheets if they reference the same element. 
+Important to note that whichever stylesheet is linked **last** will take precedence over the earlier stylesheets if they reference the same element.
 
-### Reset CSS
+## Reset CSS
 
 In front end development, it is important to understand that:
 
@@ -28,11 +28,11 @@ In front end development, it is important to understand that:
 
 Basic HTML without `reset.css` would print to Chrome like this:
 
-![](../../../.gitbook/assets/image%20%2890%29.png)
+![](https://github.com/cslewislives/frontend-prework/tree/7c7bc1ab2155c31482f755a757c91f4efcc6e770/.gitbook/assets/image%20%2890%29.png)
 
 Whereas the same HTML **with** `reset.css` would print like this in Chrome:
 
-![](../../../.gitbook/assets/image%20%288%29.png)
+![](https://github.com/cslewislives/frontend-prework/tree/7c7bc1ab2155c31482f755a757c91f4efcc6e770/.gitbook/assets/image%20%288%29.png)
 
 By providing a `reset.css` you are able to control how your HTML is styled across **any** browser.
 

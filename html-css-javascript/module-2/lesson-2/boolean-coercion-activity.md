@@ -1,8 +1,8 @@
 # Boolean Coercion - Activity
 
-![Boolean Coercion](../../../.gitbook/assets/image%20%2837%29.png)
+![Boolean Coercion](https://github.com/cslewislives/frontend-prework/tree/7c7bc1ab2155c31482f755a757c91f4efcc6e770/.gitbook/assets/image%20%2837%29.png)
 
-Make sure you attempt the activity on your own before checking out the solution. 
+Make sure you attempt the activity on your own before checking out the solution.
 
 {% tabs %}
 {% tab title="Instructions" %}
@@ -32,9 +32,9 @@ Study the JavaScript code inside of the `script` tags.
     } else {
       alert('You did not input your age');
     }
-    
+
   </script>
-  
+
 </body>
 
 </html>
@@ -74,7 +74,7 @@ Don't try to run the code without adding a condition to the `if` statement. You'
     } else {
       alert('You did not input your age');
     }
-    
+
   </script>
 
 </body>

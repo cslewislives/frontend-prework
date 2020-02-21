@@ -1,12 +1,12 @@
 # Loops
 
-Loops are a great way to keep you from having to write repetitive code because loops handle the repetition. Basically, loops offer a quick and easy way to do something repeatedly. 
+Loops are a great way to keep you from having to write repetitive code because loops handle the repetition. Basically, loops offer a quick and easy way to do something repeatedly.
 
 We'll look at two different loops, or iterators, called `for` loops and `while` loops.
 
-### While Loops
+## While Loops
 
-Take a look at the following `while` loop: 
+Take a look at the following `while` loop:
 
 ```javascript
 let counter = 0;
@@ -25,7 +25,7 @@ while (counter < 5){
   * `counter++` is shorthand for `counter = counter + 1`. 
   * This will be our control for how many times the block of code runs because when this counter eventually hits 5, it will stop running. 
 
-### For Loops
+## For Loops
 
 Take a look at the following `for` loop:
 
@@ -43,7 +43,7 @@ for (let i = 0; i < 5; i++){
 * Within our block of code, we have our `console.log(i);` 
   * That will continuously run while our condition is true.
 
-### Parallels
+## Parallels
 
 For Loops and While loops are fairly similar, with a for loop being shorter and easier to write and we are less likely to forget to add the incrementer. We tend to favor for loops.
 

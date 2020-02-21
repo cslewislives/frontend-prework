@@ -1,22 +1,22 @@
 # DOM Manipulation
 
-### Static Websites
+## Static Websites
 
 The difference between what you have been building so far in class and a website/web application like YouTube, Instagram, Gmail, Google Sheets, or Reddit is your websites have been completely static!
 
-A **static website** is one that displays the same thing to every user and never really changes unless the developer or maintainer actively alters the HTML. Basically, there is no web programming involved.
+A **static website** is one that displays the same thing to every user and never really changes unless the developer or maintainer actively alters the HTML. Basically, there is no web programming involved.
 
-We need to combine our HTML, CSS, and JavaScript to get data from the server to the client dynamically. 
+We need to combine our HTML, CSS, and JavaScript to get data from the server to the client dynamically.
 
-### The DOM
+## The DOM
 
 The **DOM** \(Document Object Model\) is a data representation of the HTML that is rendered to the page. Often represented using a tree.
 
-![](../../../.gitbook/assets/image%20%2834%29.png)
+![](https://github.com/cslewislives/frontend-prework/tree/7c7bc1ab2155c31482f755a757c91f4efcc6e770/.gitbook/assets/image%20%2834%29.png)
 
 We can observe a visual representation of the DOM when we open the **Elements** tab in Chrome Devtools.
 
-### DOM Manipulation
+## DOM Manipulation
 
 **DOM Manipulation** refers to dynamically altering what appears on the page using JavaScript. This allows us to create dynamic, interactive websites that respond to user clicks and inputs.
 
@@ -40,7 +40,7 @@ Check out the following code. Make sure you switch between both so you can see w
   <h2>Characters</h2>
   <ul id="character-list">
   </ul>
-  
+
   <script src="index.js" type="text/javascript"></script>
 </body>
 
@@ -75,7 +75,7 @@ characterListUL.innerHTML = characterHTML;
 {% endtab %}
 {% endtabs %}
 
-#### `document` Object
+### `document` Object
 
 `document` is an object that is built-in to JavaScript that contains properties and methods for modifying the DOM.
 
@@ -85,7 +85,7 @@ The "selectors" we'd use to query an element in the DOM using JavaScript are the
 
 `document.querySelector` is a method that returns a DOM element which is another JavaScript object, much like the ones we've created and worked with so far. These DOM objects come with predefined properties and methods that we can use to modify how they are rendered to the page.
 
-#### `innerText`
+### `innerText`
 
 **Notice** how we're setting the inner text of the element with a selector of `#movie`.
 
@@ -93,7 +93,7 @@ The "selectors" we'd use to query an element in the DOM using JavaScript are the
 
 You can see this in action by modifying the text and refreshing your browser.
 
-#### `innerHTML`
+### `innerHTML`
 
 Notice how the list is being rendered:
 
@@ -101,7 +101,7 @@ Notice how the list is being rendered:
 * We're setting the `innerHTML` property, rather than the `innerText` property in this case.
 * `innerHTML` differs from `innerText` in that it can be used to update all of the content inside of an element, text and HTML tags as strings.
 
-### `querySelectorAll`
+## `querySelectorAll`
 
 Notice that `querySelector()` retrieves a single element, but sometimes we want to perform an operation on _all_ the elements with a certain class or _all_ the `p` elements.
 
@@ -146,7 +146,7 @@ for (let i = 0; i < exampleList.length; i++){
 {% endtab %}
 {% endtabs %}
 
-The `querySelectorAll()` method returns a NodeList with all the relevant DOM elements. 
+The `querySelectorAll()` method returns a NodeList with all the relevant DOM elements.
 
 A NodeList is a special object that can be iterated through with a for loop, just like an array! Although NodeLists share a lot of properties with arrays, they aren't arrays and some array methods won't work on them.
 

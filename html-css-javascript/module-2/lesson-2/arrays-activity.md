@@ -1,8 +1,8 @@
 # Arrays - Activity
 
-![Arrays](../../../.gitbook/assets/image%20%284%29.png)
+![Arrays](https://github.com/cslewislives/frontend-prework/tree/7c7bc1ab2155c31482f755a757c91f4efcc6e770/.gitbook/assets/image%20%284%29.png)
 
-Make sure you attempt the activity on your own before checking out the solution. 
+Make sure you attempt the activity on your own before checking out the solution.
 
 {% tabs %}
 {% tab title="Instructions" %}
@@ -83,17 +83,17 @@ The full solution should look like this:
         const name3 = prompt('enter a student name');
         const name4 = prompt('enter a student name');
         const name5 = prompt('enter a student name');
-        
+
         const studentList = [];
-        
+
         studentList.push(name1);
         studentList.push(name2);
         studentList.push(name3);
         studentList.push(name4);
         studentList.push(name5);
-        
+
         const student = studentList[1];
-        
+
         alert(student);
 
             // Challenge -- Uncomment this section to showcase the Challenge!

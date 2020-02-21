@@ -1,10 +1,10 @@
 # Intro to CSS - Activity
 
-![Intro to CSS](../../../.gitbook/assets/image%20%284%29.png)
+![Intro to CSS](https://github.com/cslewislives/frontend-prework/tree/7c7bc1ab2155c31482f755a757c91f4efcc6e770/.gitbook/assets/image%20%284%29.png)
 
-Head to [this JSBin link](https://jsbin.com/detoxaf/1/edit?html,css,output) and follow the instructions below: 
+Head to [this JSBin link](https://jsbin.com/detoxaf/1/edit?html,css,output) and follow the instructions below:
 
-### GOALS:
+## GOALS:
 
 * Create a body element and add the following CSS
 * font-family of Arial, Helvetica, sans-serif.

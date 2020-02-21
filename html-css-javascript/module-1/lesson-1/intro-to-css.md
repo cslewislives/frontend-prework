@@ -4,7 +4,7 @@ description: Making it Pretty
 
 # Intro to CSS
 
-### CSS Basics
+## CSS Basics
 
 * CSS stands for Cascading Style Sheets
 * CSS, in addition to HTML, is read from top-to-bottom
@@ -17,7 +17,7 @@ description: Making it Pretty
 * CSS works by hooking onto selectors added into HTML using classes and identifiers.
 * Once hooked, we apply styles to those HTML elements using CSS.
 
-### Frequently Used CSS
+## Frequently Used CSS
 
 * **Font / Color:**
   * `color:`
@@ -45,7 +45,7 @@ description: Making it Pretty
 There are a **lot** of CSS properties. Feel free to [check out this link](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference) to see more and play around with them!
 {% endhint %}
 
-### Example CSS sheet
+## Example CSS sheet
 
 Apply the following CSS and link to it in your HTML. Make sure your CSS file and your HTML file are in the same folder.
 
@@ -116,9 +116,7 @@ p {
 {% tab title="Browser" %}
 The web page now looks like this:
 
-![](../../../.gitbook/assets/image%20%28105%29.png)
+![](https://github.com/cslewislives/frontend-prework/tree/7c7bc1ab2155c31482f755a757c91f4efcc6e770/.gitbook/assets/image%20%28105%29.png)
 {% endtab %}
 {% endtabs %}
-
-
 

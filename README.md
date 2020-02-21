@@ -2,19 +2,23 @@
 description: This is going to be awesome!
 ---
 
-# Meet The Staff
+# Welcome
 
-Don't worry you're not alone in this. You'll be guided through by your expert team of instructors. These are industry professionals with decades of enterprise application development experience. 
+The following modules exist to assess your learning capabilities in a short amount of time. You will have **2 weeks** to complete these modules in order to be given a slot in the class.
 
-![Daniel Mueller](.gitbook/assets/image%20%28107%29.png)
+These are your deliverables for this work:
 
-Dan is a software development professional and leader with nearly 20 years of software development experience. He has a degree in Computer Science from University of Illinois and specializes in Java 7, Spring Framework, and PL/SQL.
+* **Two Module Assessments**
+  * Each module has an Assessment at the end.
+  * These are larger projects and will be a good representation of how much you have learned from these modules
+* **Lesson Assessments**
+  * Any time you come across a page titled Assessment these will be required activities to be eligible for completion of this course
+  * These are smaller activities or drills that will serve as a quick assessment of your skills and understanding of the lessons
 
-![Richard Widtmann](.gitbook/assets/image%20%2848%29.png)
+Through out the lessons you will come across pages with **Activity** in the title. These are not required for completion **however,** we highly suggest you attempt them as practicing what you've learned is the best way to achieve mastery.
 
-Rich is a former Senior Java/Spring API Developer turned teacher with over 15 years of experience.  He has a passion for Continuous Integration, API Micro Services, Dev-Ops, and Agile methodologies.
+## Submission
 
-![Keshwan Ramlu](.gitbook/assets/image%20%2820%29.png)
-
-Kesh is a Software Architect and Engineering Manager with 14 years of industry experience focused enterprise Java application in the financial services sector. He holds degrees in Math, Computer Science, and Information Systems. 
+* To submit your finished prework you will copy the link to your prework GitHub repository \(you will be creating this in the work\) and submit it in an email to [enterprise-grader@trilogyed.com](mailto:enterprise-grader@trilogyed.com).
+  * The subject of your email should be `<FullName> PreWork`
 

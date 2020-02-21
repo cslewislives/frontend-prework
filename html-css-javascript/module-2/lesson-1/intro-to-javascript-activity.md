@@ -1,10 +1,10 @@
 # Intro to JavaScript - Activity
 
-![Intro to JavaScript](../../../.gitbook/assets/image.png)
+![Intro to JavaScript](https://github.com/cslewislives/frontend-prework/tree/7c7bc1ab2155c31482f755a757c91f4efcc6e770/.gitbook/assets/image.png)
 
 **Instructions:**
 
-Using only the Chrome Console, find the answers to the following problems! Note the statement you typed to get your result! 
+Using only the Chrome Console, find the answers to the following problems! Note the statement you typed to get your result!
 
 1. 7482 divided by 281
 2. 3.14 times 5 divided by 3

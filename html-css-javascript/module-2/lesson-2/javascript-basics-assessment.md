@@ -2,9 +2,9 @@
 
 Before continuing with the lessons go ahead and attempt the following assessment. These will be a good way to test your understanding of the knowledge you just gained.
 
-![JavaScript Basics](../../../.gitbook/assets/image%20%2860%29.png)
+![JavaScript Basics](https://github.com/cslewislives/frontend-prework/tree/7c7bc1ab2155c31482f755a757c91f4efcc6e770/.gitbook/assets/image%20%2860%29.png)
 
-### **Instructions:** 
+## **Instructions:**
 
 * Create a new folder in your **prework repo** called `JavaScript_Basics_Assessment`.
 * Complete the following activities in separate files named after each activity, `activity-2.js`, etc.

@@ -4,14 +4,14 @@ description: Getting Stuff on the Page
 
 # Intro to HTML
 
-### HTML Facts
+## HTML Facts
 
 * HTML is used to make every website.
 * HTML is the language that determines what appears on web pages.
 * HTML is made up of opening and closing tags.
 * HTML is the skeleton of the web page, we use elements to dictate where everything needs to be.
 
-### Anatomy of HTML Elements 
+## Anatomy of HTML Elements
 
 ```markup
 <p> Some text here. </p>
@@ -32,7 +32,7 @@ description: Getting Stuff on the Page
 * They come in name/value pairs: `name = “value”`.
 * `/>` is the self closing tag
 
-### Other HTML Elements
+## Other HTML Elements
 
 We’ve seen demonstrations of the &lt;p&gt; and &lt;img&gt; elements, but what other elements do we have at our disposal?
 
@@ -45,7 +45,7 @@ We’ve seen demonstrations of the &lt;p&gt; and &lt;img&gt; elements, but what 
 * `<div>` is used to create divisions in the page
 * `<a>` is used as a link
 
-### Examples
+## Examples
 
 Copy and paste the following code into your editor [\(or JSBin\)](http://www.jsbin.com) and display it in your browser.
 
@@ -85,7 +85,7 @@ Copy and paste the following code into your editor [\(or JSBin\)](http://www.jsb
 {% tab title="Browser" %}
 It should look like this in your browser:
 
-![](../../../.gitbook/assets/image%20%2883%29.png)
+![](https://github.com/cslewislives/frontend-prework/tree/7c7bc1ab2155c31482f755a757c91f4efcc6e770/.gitbook/assets/image%20%2883%29.png)
 {% endtab %}
 {% endtabs %}
 

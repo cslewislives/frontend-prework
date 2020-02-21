@@ -1,14 +1,14 @@
 # Variable - Activity
 
-![Variables](../../../.gitbook/assets/image.png)
+![Variables](https://github.com/cslewislives/frontend-prework/tree/7c7bc1ab2155c31482f755a757c91f4efcc6e770/.gitbook/assets/image.png)
 
 Make sure you attempt the activity on your own before looking at the solution.
 
 {% tabs %}
 {% tab title="Instructions" %}
-### Instructions:
+## Instructions:
 
-In your console write code to answer these questions: 
+In your console write code to answer these questions:
 
 * How do you create a variable that holds the string 'Joe Smith'?
 * How do you create a variable that holds my favorite number, 9?
@@ -21,7 +21,7 @@ In your console write code to answer these questions:
 {% endtab %}
 
 {% tab title="Solutions" %}
-### Instructions:
+## Instructions:
 
 In your console write code to answer these questions:
 

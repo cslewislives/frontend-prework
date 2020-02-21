@@ -1,6 +1,6 @@
 # Methods and Classes
 
-### Methods
+## Methods
 
 In Java the closest thing to a function is called a **method.** Let's take a look at what a method is:
 
@@ -13,14 +13,14 @@ In Java the closest thing to a function is called a **method.** Let's take a loo
 * A method may or may not return a value.
   * Example: That add method we mentioned before may return the sum of the two numbers passed in. But an alternate implementation of the add method may not return the sum; instead, it may just print the sum out to the console.
 
-When writing a method the syntax is very similar to a JavaScript Function declaration: 
+When writing a method the syntax is very similar to a JavaScript Function declaration:
 
 {% tabs %}
 {% tab title="JavaScript" %}
 ```javascript
 //Function Declaration
 function add(num1, num2){
-	return num1 + num2
+    return num1 + num2
 }
 ```
 {% endtab %}
@@ -28,7 +28,7 @@ function add(num1, num2){
 {% tab title="Java" %}
 ```java
 public int add(int num1, int num2){
-	return num1 + num2;
+    return num1 + num2;
 }
 ```
 {% endtab %}
@@ -38,13 +38,13 @@ public int add(int num1, int num2){
 
 `public` **-** public is an **ACCESS MODIFIER**. Your access modifier can be public, private, or protected. This controls which parts of your application have access to this method. Just use public for now; we'll talk about the others in class.
 
-`int` - This is the **RETURN TYPE**. Methods are like a box - data can only be passed in through parameters and can only escape the curly braces through the return keyword. For now, just know that we have to declare what type of variable will come back out of the function. `void` means that nothing is returned where as `int` would indicate that an integer will be returned. 
+`int` - This is the **RETURN TYPE**. Methods are like a box - data can only be passed in through parameters and can only escape the curly braces through the return keyword. For now, just know that we have to declare what type of variable will come back out of the function. `void` means that nothing is returned where as `int` would indicate that an integer will be returned.
 
-`add` - This is the **METHOD NAME**. The method name can be literally anything \(barring keywords and names that contain illegal characters, [https://www.geeksforgeeks.org/list-of-all-java-keywords/](https://www.geeksforgeeks.org/list-of-all-java-keywords/)\). It's like a variable name and it's how you'll use, or call, the method later. By convention, method names should begin with a verb. 
+`add` - This is the **METHOD NAME**. The method name can be literally anything \(barring keywords and names that contain illegal characters, [https://www.geeksforgeeks.org/list-of-all-java-keywords/](https://www.geeksforgeeks.org/list-of-all-java-keywords/)\). It's like a variable name and it's how you'll use, or call, the method later. By convention, method names should begin with a verb.
 
 `int num1, int num2` - These are **PARAMETERS**. Parameters always appear inside parentheses and are how data get passed into the function. The data type of the parameter must be declared.
 
-### Classes
+## Classes
 
 In Java they do have objects \(it is an object oriented programming language\) **BUT** they are not the same as JavaScript Objects.
 
@@ -54,11 +54,11 @@ The closest thing to JS Objects are Java **Classes**.
 {% tab title="JavaScript" %}
 ```javascript
 function Person(name, age){
-	this.name = name;
-	this.age = age;
-	this.greet = function(hi){
-	  console.log(hi + this.name);
-	}
+    this.name = name;
+    this.age = age;
+    this.greet = function(hi){
+      console.log(hi + this.name);
+    }
 }
 ```
 {% endtab %}
@@ -66,25 +66,25 @@ function Person(name, age){
 {% tab title="Java" %}
 ```java
 class Person {
-	private String name;
-	private int age; 
+    private String name;
+    private int age; 
 
-	public Person(String name, int age){
-	  this.name = name;
-	  this.age = age;
-	}
+    public Person(String name, int age){
+      this.name = name;
+      this.age = age;
+    }
 
 //getters and setters omitted for brevity
 
-	public void greet(String hi){
-	  System.out.println(hi + this.name);
-	}
+    public void greet(String hi){
+      System.out.println(hi + this.name);
+    }
 }
 ```
 {% endtab %}
 {% endtabs %}
 
-These may look completely different but they are doing very similar things. We will learn a lot more about this in class. 
+These may look completely different but they are doing very similar things. We will learn a lot more about this in class.
 
 {% hint style="info" %}
 The biggest takeaway is that in Java, object means something different and Class is the closest thing to JS objects.

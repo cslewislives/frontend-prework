@@ -4,9 +4,9 @@ description: Writing in Style
 
 # CSS Typography
 
-Typography can play a huge role in the visual aesthetic and emotional identity of a web page. 
+Typography can play a huge role in the visual aesthetic and emotional identity of a web page.
 
-### Typographic Properties 
+## Typographic Properties
 
 ![](https://lh6.googleusercontent.com/IEolQ341c6y-0P_FpKyEKizODWBkEfh3nR9jzoWXe6BfayTXjKE68SbEhw3KG66lEoON5Jl-PM448d-GL-_YqDWO_6DuLoEh5xqDbbZiVKMVxgwHgooryN7HQbn1w9YGaCGNw58agAs)
 
@@ -24,7 +24,7 @@ Typography can play a huge role in the visual aesthetic and emotional identity o
 * **Sans-Serif vs Serif**
   * Sans-serif are fonts sans their serifs—no tails. They’re easier to read online
 
-### Typography Activity
+## Typography Activity
 
 Using the following [**JSBin** link](https://jsbin.com/fahexeb/2/edit?html,css,output) create the CSS to modify the typography of each of the body paragraphs.
 
@@ -42,5 +42,5 @@ Be sure to modify the following CSS properties for each paragraph of your page:
 
 You can breakout the output of the JSBin by clicking this button:
 
-![](../../../.gitbook/assets/image%20%2897%29.png)
+![](https://github.com/cslewislives/frontend-prework/tree/7c7bc1ab2155c31482f755a757c91f4efcc6e770/.gitbook/assets/image%20%2897%29.png)
 

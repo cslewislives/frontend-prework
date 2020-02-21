@@ -4,32 +4,30 @@ description: Columns and Rows
 
 # Grid Layout
 
-### Designing with a Grid
+## Designing with a Grid
 
-Every good web design begins with a sketch. As you may have noticed, everything in CSS has to be mathematically laid out. You need to have dimensions for your margins, padding, etc. This requires that these sketches are built with a "grid" in mind to help with alignments. 
+Every good web design begins with a sketch. As you may have noticed, everything in CSS has to be mathematically laid out. You need to have dimensions for your margins, padding, etc. This requires that these sketches are built with a "grid" in mind to help with alignments.
 
 ![](https://lh6.googleusercontent.com/4jiCQAaxNGHURFWaTtevTNWQo3Iq3QPVLaDSt_ygloHhRnDRPSHDO_DZh8z_STbmmrg7aSHsrw61AmALuiNHjPCDXoUefj8u0-T2qIzCt66Kk67AdtsZ4vcZbJTWx1eXkRwt2fVuSI8)
 
 Because every aspect of a site’s “look” is defined by HTML/CSS – it is crucial to have a detailed sketch going in.
 
-Pay particular attention to the location of navigation bars, titles, headers, content, images, footers etc. 
+Pay particular attention to the location of navigation bars, titles, headers, content, images, footers etc.
 
 When imagining alignments, in particular, be mindful of the **grid**.
 
-#### Rows and Columns
+### Rows and Columns
 
 The grid is made up of rows and columns. Columns run from left to right accross the width of the page. \(The green bars in the above picture\). Rows run horizontally from top to bottom.
 
 It's important to break down websites into rows and columns.
 
-![](../../../.gitbook/assets/image%20%287%29.png)
+![](https://github.com/cslewislives/frontend-prework/tree/7c7bc1ab2155c31482f755a757c91f4efcc6e770/.gitbook/assets/image%20%287%29.png)
 
 How many rows and columns do you see?
 
 {% tabs %}
 {% tab title="Rows" %}
-
-
 ![](https://lh3.googleusercontent.com/hrUy4iXPzjqmRZJEJkaiXkUEbO03Wye_ra4SNK8drh4yOVFr9U3rgiXZDq1pJVtg5jS0-41QuuRd0LSZnd8iKsOcZ_4ftXvqoIPk9m2LfxVZmX_RzQs65xOSparlWsThRQv5nsBF6TY)
 {% endtab %}
 
@@ -39,8 +37,6 @@ How many rows and columns do you see?
 {% endtabs %}
 
 In this example, the footer is included as a row, but not the header. This is a rather arbitrary choice, but partially based on the fact that navbars aren't a part of the bootstrap grid system. We will get into that more in a moment.
-
-
 
 ![](https://lh3.googleusercontent.com/2VmFlhJ9-mH07B2rEuvBMFM_sUAIzgHokTjO0XxJ1UnfcTwwY9GmXLPM4Ox8MsPao0UGDJpzkErr1xpPED-XKF_lely33n_1-Mkkt3T9RK0429sG7D6RcPE_4fh-E2HVOXD8NTKXSLQ)
 
@@ -62,7 +58,7 @@ How many rows and columns in this example?
 **Notice** that each wireframe represents a different kind of website \(one is a blog, one is a corporate site, etc.
 {% endhint %}
 
-#### Sub-rows and Sub-Columns
+### Sub-rows and Sub-Columns
 
 ![](https://lh5.googleusercontent.com/glL5fRZi-VqW-n_sbONcZLxEqprbzJ-YWC47huxMjUzs1XJqFoR5CgC4F_ECIZmnXjoinuFEXoMTSDlcmXQxs6aoILEEpJRT7xxFMONuDrtPkuZE_fUVLvjhklGvDchpsjWtlvZvkQY)
 
@@ -90,7 +86,9 @@ Sub-columns:
 {% endtab %}
 {% endtabs %}
 
-The way to access sub-elements is to put rows inside columns that are inside of larger rows. Don't worry, this one was tricky! Just remember the big takeaway: webpage layouts can always be broken down into rows and columns.
+The way to access sub-elements is to put rows inside columns that are inside of larger rows.
+
+Don't worry, this one was tricky! Just remember the big takeaway: webpage layouts can always be broken down into rows and columns.
 
 {% hint style="info" %}
 Here are a few wireframing resources:

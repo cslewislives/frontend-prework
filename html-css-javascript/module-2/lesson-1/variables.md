@@ -1,14 +1,14 @@
 # Variables
 
-### What, When, and Why
+## What, When, and Why
 
 Variables are the nouns of JavaScript. They are named containers that we can refer to by name to access the stored data inside.
 
 Using variables keeps us from having to retype data over and over. Instead, we can just refer back to the variable containing the data. It keeps our code clean, readable, and easier to debug.
 
-Let's say you wanted to store pi to 50 decimal places. Later on, you'll want to refer to pi in 50 decimal places but instead of retyping or even copying and pasting, you could store the data in a variable and just refer to that variable name. 
+Let's say you wanted to store pi to 50 decimal places. Later on, you'll want to refer to pi in 50 decimal places but instead of retyping or even copying and pasting, you could store the data in a variable and just refer to that variable name.
 
-### Writing Variables
+## Writing Variables
 
 We've seen values of type `number` like `4`, `7.2`, and `9` and values of type `String` like `'This is a string'` and `'potato'`, and also values of type `boolean` like `true` or `false`, and we can enter these into the console and combine them with operators to make expressions that evaluate to some new value like `2 * 4` which evaluates to `8`.
 
@@ -53,16 +53,16 @@ Variables are initially created using the `const`, `let`, or`var` keyword, but a
 An analogy that may help you visualize variables:
 
 > "Imagine you have a brand new attic goblin. That's right a goblin that lives in your attic. He's very very tidy and insists you clean using his particular rules. You have to store everything you want to keep in a labeled box. Everything else gets tossed out. Any time you need something that you stored in a box, you can tell the goblin the name of the box, and he'll bring you what's inside. You can store new items in the attic anytime but you must put them in a box and label them or the goblin will immediately throw them away."
-
+>
 > "Writing `const num1 = 2` is like making a box and labeling it `num1` and then storing the number 2 in it. Writing `num1` later in our code is like asking the goblin to find the `num1` box and give us what's inside."
 
 In this analogy, "boxes" are variables, and the "items" are their values and the goblin is the JavaScript engine.
 
-![Attic Goblin](../../../.gitbook/assets/attic.png)
+![Attic Goblin](https://github.com/cslewislives/frontend-prework/tree/7c7bc1ab2155c31482f755a757c91f4efcc6e770/.gitbook/assets/attic.png)
 
 _Why_ might we want to store a value in a variable?
 
-Imagine that we needed to use the number `3.14159265358979323846` over and over in our code. It would be awful to type that 100 times. Instead we could store it as a variable called `PI`. 
+Imagine that we needed to use the number `3.14159265358979323846` over and over in our code. It would be awful to type that 100 times. Instead we could store it as a variable called `PI`.
 
 Or perhaps we want to prompt the user for some information and store that information for use later in a variable called `input`.
 
@@ -74,7 +74,7 @@ const sum = num + num2;
 sum;
 ```
 
-Before you press enter guess what value is stored in `sum`. 
+Before you press enter guess what value is stored in `sum`.
 
 Press enter and notice that it's `14`. The expression on the **right-hand side** of the equals sign is evaluated **first**. It evaluates to `14`. That value `14` is then stored in the variable `sum` on the left-hand side of the equals sign. We always evaluate the expression on the right-hand side first.
 

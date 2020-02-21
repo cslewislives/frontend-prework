@@ -1,12 +1,12 @@
 # Boolean Coercion
 
-In JavaScript, we can convert or **coerce** a value from one type to another, like numbers to Strings and booleans to numbers. Explain that any type can be coerced to any other type. 
+In JavaScript, we can convert or **coerce** a value from one type to another, like numbers to Strings and booleans to numbers. Explain that any type can be coerced to any other type.
 
-Sometimes you're not just checking what the value inside of a user input is. You're checking to see if there is a value at all! 
+Sometimes you're not just checking what the value inside of a user input is. You're checking to see if there is a value at all!
 
 There might be an error in the input, but you can start by understanding if there's an input. How do you do that? truthiness, falsiness, and boolean conversion! But you should start by seeing IF there's an input at all
 
-Open the Chrome console and type: 
+Open the Chrome console and type:
 
 ```javascript
 !!0;

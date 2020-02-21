@@ -8,9 +8,9 @@ description: >-
 
 This assessment will be a challenge, but try to work through the steps to the best of your ability. Use both the information given to you in the lessons and Google to help answer any questions.
 
-Be sure to read through ALL of the instructions before beginning the assignment.  
+Be sure to read through ALL of the instructions before beginning the assignment.
 
-### Create a Portfolio Site 
+## Create a Portfolio Site
 
 * Create a new new folder in your **prework repo** titled `Module-1_Assessment`.
 * Navigate to the `Module-1_Assessment` folder that you just created. Inside this folder, create the following:
@@ -28,15 +28,15 @@ With these initial steps complete, it is time to start building your Basic-Portf
 
 * About Me - index.html
 
-![About Me Page](../../.gitbook/assets/portfolio-about-me.png)
+![About Me Page](https://github.com/cslewislives/frontend-prework/tree/7c7bc1ab2155c31482f755a757c91f4efcc6e770/.gitbook/assets/portfolio-about-me.png)
 
 * Contact Me - contact.html
 
-![Contact Me Page](../../.gitbook/assets/portfolio-contact.png)
+![Contact Me Page](https://github.com/cslewislives/frontend-prework/tree/7c7bc1ab2155c31482f755a757c91f4efcc6e770/.gitbook/assets/portfolio-contact.png)
 
 * Portfolio Gallery - portfolio.html
 
-![Portfolio Gallery](../../.gitbook/assets/portfolio-gallery.png)
+![Portfolio Gallery](https://github.com/cslewislives/frontend-prework/tree/7c7bc1ab2155c31482f755a757c91f4efcc6e770/.gitbook/assets/portfolio-gallery.png)
 
 {% hint style="info" %}
 **IMPORTANT** Your site's layout must match the designs in these screenshots. You'll find the specs for these designs below.
@@ -53,7 +53,7 @@ With these initial steps complete, it is time to start building your Basic-Portf
 * After all of your HTML and Bootstrap is written, you can begin styling your pages using the `style.css` file you created.
 * Once again, add, commit and push your changes to Github.
 
-### **Additional Specifications**
+## **Additional Specifications**
 
 * Using Bootstrap, your portfolio site should be made using the following items:
   * A navbar

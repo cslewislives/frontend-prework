@@ -4,7 +4,7 @@ description: Still Making it Pretty
 
 # Intro to CSS Cont.
 
-### Specifying Selectors
+## Specifying Selectors
 
 * Id’s can be used to give an HTML element a unique identifier that you can use to stylize that specific element 
 
@@ -42,7 +42,7 @@ description: Still Making it Pretty
 {% tab title="Browser" %}
 It should look like this:
 
-![](../../../.gitbook/assets/image%20%2881%29.png)
+![](https://github.com/cslewislives/frontend-prework/tree/7c7bc1ab2155c31482f755a757c91f4efcc6e770/.gitbook/assets/image%20%2881%29.png)
 {% endtab %}
 {% endtabs %}
 
@@ -77,9 +77,7 @@ It should look like this:
 {% tab title="Browser" %}
 This is what it looks like:
 
-![](../../../.gitbook/assets/image%20%2832%29.png)
+![](https://github.com/cslewislives/frontend-prework/tree/7c7bc1ab2155c31482f755a757c91f4efcc6e770/.gitbook/assets/image%20%2832%29.png)
 {% endtab %}
 {% endtabs %}
-
-
 

@@ -6,13 +6,13 @@ But first let's quickly go through how to link JavaScript documents to our HTML 
 
 If your first guess is to use a link tag like we do when linking our CSS stylesheets to HTML documents, you’re pretty close!
 
-In HTML, all JavaScript is contained inside of a `<script>` tag. 
+In HTML, all JavaScript is contained inside of a `<script>` tag.
 
 ```markup
 <script></script>
 ```
 
-The `<script>` tag can go either in the `<head>` or `<body>` tags, depending on where you want the JavaScript to load.
+The `<script>` tag can go either in the `<head>` or `<body>` tags, depending on where you want the JavaScript to load.
 
 It’s generally a good idea to leave the `<script>` tag in the body at the bottom. This is because HTML is read from top to bottom and you'll want to make sure that HTML is rendered first _before_ JavaScript logic is applied.
 
@@ -23,8 +23,8 @@ It’s generally a good idea to leave the `<script>` tag in the body at the bott
     <title>Document</title>
 </head>
 <body>
-    
-	<script></script>
+
+    <script></script>
 </body>
 </html>
 ```
@@ -38,8 +38,8 @@ Now all we have to do is tell our `<script>` tag where our JavaScript file exist
     <title>Document</title>
 </head>
 <body>
-    
-	<script src="js/index.js"></script>
+
+    <script src="js/index.js"></script>
 </body>
 </html>
 ```
@@ -55,11 +55,11 @@ You can also write JS inside the script tags themselves such as:
     <title>Document</title>
 </head>
 <body>
-    
-	<script>
+
+    <script>
     const greeting = prompt('enter your name');
     alert('Hello ' + greeting);
-	</script>
+    </script>
 </body>
 </html>
 ```

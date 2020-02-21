@@ -1,6 +1,6 @@
 # CSS Specificity
 
-### What is specificity?
+## What is specificity?
 
 * Sometimes an element can have conflicting CSS properties, the browser must then decide which is most relevant to the element.
 * You can think of CSS specificity as a hierarchy! 
@@ -37,7 +37,7 @@ h1 {
 {% tab title="Browser" %}
 Due to the specificity of the class the browser will render this:
 
-![](../../../.gitbook/assets/image%20%2876%29.png)
+![](https://github.com/cslewislives/frontend-prework/tree/7c7bc1ab2155c31482f755a757c91f4efcc6e770/.gitbook/assets/image%20%2876%29.png)
 {% endtab %}
 {% endtabs %}
 

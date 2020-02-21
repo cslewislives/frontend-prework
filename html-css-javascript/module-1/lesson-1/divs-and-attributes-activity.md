@@ -1,10 +1,10 @@
 # Divs and Attributes - Activity
 
-![Divs and Attributes](../../../.gitbook/assets/image%20%2860%29.png)
+![Divs and Attributes](https://github.com/cslewislives/frontend-prework/tree/7c7bc1ab2155c31482f755a757c91f4efcc6e770/.gitbook/assets/image%20%2860%29.png)
 
-### Instructions:
+## Instructions:
 
-Did you know that we can give HTML elements any attribute that we want? For instance, we can have a div element and give it an attribute of "name" which we can then pass in "George": 
+Did you know that we can give HTML elements any attribute that we want? For instance, we can have a div element and give it an attribute of "name" which we can then pass in "George":
 
 ```markup
 <div name="George"></div>

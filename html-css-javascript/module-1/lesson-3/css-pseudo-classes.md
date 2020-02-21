@@ -4,7 +4,7 @@ CSS allows you to not only affect "static" properties, but also of ones that are
 
 CSS has keywords that can be added to selectors. These highlight the special states of the selected element.
 
-**Great example:** CSS can hook onto the specific moment when a link is hovered over using the `:hover` pseudo-class.  
+**Great example:** CSS can hook onto the specific moment when a link is hovered over using the `:hover` pseudo-class.
 
 A complete list of pseudo-classes can be found here: [https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-classes](https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-classes)
 
@@ -26,7 +26,7 @@ a:active {
 }
 ```
 
-This is a simple example, but many others build powerful UI based off this principle. 
+This is a simple example, but many others build powerful UI based off this principle.
 
 {% hint style="info" %}
 To see these in action [checkout this JSBin](https://jsbin.com/yapices/1/edit?html,css,output)

@@ -1,23 +1,23 @@
 # Objects
 
-### What, When, and Why
+## What, When, and Why
 
-Objects store information in key/value pairs - kind of like an array, but instead of indices like 0,1,2,3... We have keys like `name`, `age`, `height`, etc. 
+Objects store information in key/value pairs - kind of like an array, but instead of indices like 0,1,2,3... We have keys like `name`, `age`, `height`, etc.
 
 Objects are the backbone of JavaScript. They are used to store related information.
 
 You'll see tons of objects throughout your career as a developer. Remember `console.log`? `console` is actually an object. Arrays are actually a special kind of object too. Objects are everywhere in JavaScript.
 
-### New Type
+## New Type
 
-So far we've seen four types of values \(booleans, Strings, numbers, and arrays\) and 3 programming tools \(conditionals, loops, and functions\). There's really only 2 more concepts that make up the core of programming: 
+So far we've seen four types of values \(booleans, Strings, numbers, and arrays\) and 3 programming tools \(conditionals, loops, and functions\). There's really only 2 more concepts that make up the core of programming:
 
 * Objects
 * Event listeners
 
 Once we know these, we can make virtually anything. It's just a matter of using our flowcharting skills to figure out how to arrange the pieces."
 
-Let's tick one more off the list and learn about objects. **Objects** — like arrays — are containers for multiple values. Unlike arrays though, objects have a **property** and a **property value**. 
+Let's tick one more off the list and learn about objects. **Objects** — like arrays — are containers for multiple values. Unlike arrays though, objects have a **property** and a **property value**.
 
 Where arrays are like a list, objects are like a dictionary with key/value pairs.
 

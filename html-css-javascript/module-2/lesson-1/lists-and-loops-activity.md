@@ -1,8 +1,8 @@
 # Lists and Loops - Activity
 
-![Lists and Loops](../../../.gitbook/assets/image%20%2837%29.png)
+![Lists and Loops](https://github.com/cslewislives/frontend-prework/tree/7c7bc1ab2155c31482f755a757c91f4efcc6e770/.gitbook/assets/image%20%2837%29.png)
 
-Make sure you attempt the activity on your own before checking out the solution. 
+Make sure you attempt the activity on your own before checking out the solution.
 
 {% tabs %}
 {% tab title="Instructions" %}
@@ -16,7 +16,7 @@ Using a pencil and paper or a flowcharting software, design the following progra
 {% tab title="Solution" %}
 This was a very complex problem, and it's okay if you weren't able to solve it. What's important is working to develop the skills to think like a programmer.
 
-![Array Sum](../../../.gitbook/assets/sum-array.png)
+![Array Sum](https://github.com/cslewislives/frontend-prework/tree/7c7bc1ab2155c31482f755a757c91f4efcc6e770/.gitbook/assets/sum-array.png)
 {% endtab %}
 {% endtabs %}
 

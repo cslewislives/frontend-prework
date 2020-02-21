@@ -1,8 +1,8 @@
 # Prompt/Alert - Activity
 
-![Prompt/Alert](../../../.gitbook/assets/image%20%284%29.png)
+![Prompt/Alert](https://github.com/cslewislives/frontend-prework/tree/7c7bc1ab2155c31482f755a757c91f4efcc6e770/.gitbook/assets/image%20%284%29.png)
 
-Make sure you attempt the activity on your own before checking out the solution. 
+Make sure you attempt the activity on your own before checking out the solution.
 
 {% tabs %}
 {% tab title="Instructions" %}
@@ -25,11 +25,11 @@ Store each value inside of a variable. Once each value has been collected, use a
     <title>Document</title>
 </head>
 <body>
-    
-	<script>
+
+    <script>
     const greeting = prompt('enter your name');
     alert('Hello ' + greeting);
-	</script>
+    </script>
 </body>
 </html>
 ```
@@ -50,7 +50,7 @@ Use the [confirm dialog](https://www.tutorialspoint.com/javascript/javascript_di
     <meta name="viewport" content="width=device-width, initial-scale=1">
 </head>
 <body>
-    
+
     <script>
         const userName = prompt('What is your name?');
         const userEmail = prompt('What is your email?');

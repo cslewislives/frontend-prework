@@ -2,7 +2,7 @@
 
 ![](https://lh6.googleusercontent.com/0a-PPKC35sPxR-QLQa4pM2g1gnfiqMkQ6cccOHiiSnCx700xzCvdtHfo9887Q3W1z5TYGKdGaVh-K01_WIXXmCFW2nVj1JlHFITHlZ3_PjPkDUs_BxvhIyQC7i9BvFDmdN8erWzuP4I)
 
-Twitter Bootstrap is a free collection of tools for creating websites and web applications.  
+Twitter Bootstrap is a free collection of tools for creating websites and web applications.
 
 It comes with a pre-built design template for typography, forms, buttons, navigation, UI elements and JavaScript.
 
@@ -16,7 +16,7 @@ Familiarize yourself with the UI features it offers via the documentation.
 
 Once Bootstrap is active, you can simply copy snippets from the documentation to save yourself major time of creating elements yourself.
 
-![](../../../.gitbook/assets/image%20%2813%29.png)
+![](https://github.com/cslewislives/frontend-prework/tree/7c7bc1ab2155c31482f755a757c91f4efcc6e770/.gitbook/assets/image%20%2813%29.png)
 
 The above site was created without the developer needing to write a single line of CSS.
 
@@ -158,7 +158,7 @@ This CSS file has pre-styled "classes" which are styled whenever you call an ele
 {% endtab %}
 
 {% tab title="Jumbotron Browser" %}
-![](../../../.gitbook/assets/image%20%2867%29.png)
+![](https://github.com/cslewislives/frontend-prework/tree/7c7bc1ab2155c31482f755a757c91f4efcc6e770/.gitbook/assets/image%20%2867%29.png)
 {% endtab %}
 {% endtabs %}
 
@@ -180,7 +180,7 @@ Notice the variety of components. Many websites only require these things. This 
 
 ![](https://lh4.googleusercontent.com/ZRFYFm7Vk5B88A5pOU0UytXmzOAlxgpx6uIveyGojEKgyNcfwWY07mJwxqUgJoID_7rGqLXJ5P20THla2_oxYd86tf0LnMqjYWGFpRNbIXA-Crnqds4MSGrkfJjHOtEN-9tk4ei8BTA)
 
-Bootstrap makes it easy to build mobile-responsive websites. 
+Bootstrap makes it easy to build mobile-responsive websites.
 
 This means that your website will look “good” automatically when viewed on screens ranging from monitors to tablets to phones
 

@@ -1,25 +1,23 @@
 # Text Layout - Activity
 
-![Text Layout](../../../.gitbook/assets/image%20%2892%29.png)
+![Text Layout](https://github.com/cslewislives/frontend-prework/tree/7c7bc1ab2155c31482f755a757c91f4efcc6e770/.gitbook/assets/image%20%2892%29.png)
 
-Using [JSBin](https://jsbin.com/hilococ/1/edit?html,output) follow the instructions below. Please attempt the activity before looking at the solution: 
+Using [JSBin](https://jsbin.com/hilococ/1/edit?html,output) follow the instructions below. Please attempt the activity before looking at the solution:
 
 {% tabs %}
-{% tab title="Instructions" %}
+
 **Instructions:**
 
 Using Bootstrap CSS, create a layout that looks like the one shown here. Make sure you add the Bootstrap CDN to your HTML.
 
-![](../../../.gitbook/assets/image%20%2898%29.png)
+![](https://github.com/cslewislives/frontend-prework/tree/7c7bc1ab2155c31482f755a757c91f4efcc6e770/.gitbook/assets/image%20%2898%29.png)
 
 **Hint:** Spend some time prior to coding on drawing out the grid layout.
 
 **Hint:** Count the number of rows and columns.
 
 **Hint:** Then use the bootstrap grid syntax to code it out.
-{% endtab %}
 
-{% tab title="Solution" %}
 ```markup
 <!DOCTYPE html>
 <html lang="en-us">
@@ -96,12 +94,8 @@ Using Bootstrap CSS, create a layout that looks like the one shown here. Make su
 
 </html>
 ```
-{% endtab %}
 
-{% tab title="Solution Video Guide" %}
 Video Guide:
 
-{% embed url="https://www.youtube.com/watch?v=wQovwgW020g" %}
-{% endtab %}
-{% endtabs %}
+{% embed url="https://www.youtube.com/watch?v=wQovwgW020g" caption="" %}
 

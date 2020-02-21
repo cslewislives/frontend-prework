@@ -2,9 +2,9 @@
 
 Before continuing with the lessons go ahead and attempt the following assessment. These will be a good way to test your understanding of the knowledge you just gained.
 
-![CSS and Bootstrap Assessment](../../../.gitbook/assets/image%20%2860%29.png)
+![CSS and Bootstrap Assessment](https://github.com/cslewislives/frontend-prework/tree/7c7bc1ab2155c31482f755a757c91f4efcc6e770/.gitbook/assets/image%20%2860%29.png)
 
-**Instructions:** 
+**Instructions:**
 
 * Create a new folder in your **prework repo** titled `Bootstrap_Assessment`
 * Copy the files from your first **HTML and CSS Assessment** into the new folder
@@ -15,7 +15,7 @@ Before continuing with the lessons go ahead and attempt the following assessment
   * Positioned Images
   * Etc.
 
-![Example Website](../../../.gitbook/assets/css_ii.png)
+![Example Website](https://github.com/cslewislives/frontend-prework/tree/7c7bc1ab2155c31482f755a757c91f4efcc6e770/.gitbook/assets/css_ii.png)
 
 * Push the completed files to the repository in GitHub
 

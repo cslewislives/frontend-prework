@@ -1,6 +1,6 @@
 # Intro to JavaScript II
 
-### **Strings**
+## **Strings**
 
 Strings in JavaScript allow us to store a series of characters within double quotes `"` or single quotes `'`.
 
@@ -8,7 +8,7 @@ If you choose double or single quotes, continue using one or the other for consi
 
 We will mostly be using single quotes `'` ourselves.
 
-Type the following into your console and hit Enter after each line 
+Type the following into your console and hit Enter after each line
 
 ```javascript
 'This is a string!'
@@ -42,7 +42,7 @@ _Why_ might we want to concatenate strings?
 
 We might want to do that for things like: The user inputs their name and we want to combine it with the string `'Welcome '` to say something like `'Welcome Diane'`, etc.
 
-### **Booleans**
+## **Booleans**
 
 A **boolean** is a data type representing one of two values: `true` or `false`.
 

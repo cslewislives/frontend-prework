@@ -7,7 +7,7 @@ const greeting = prompt('enter your name');
 alert('Hello ' + greeting);
 ```
 
-What do you think will happen when we run this code? 
+What do you think will happen when we run this code?
 
 After spending a few minutes brainstorming what the code _might_ do, go ahead and open the HTML file in your web browser.
 
@@ -18,7 +18,7 @@ A function is just a named section of pre-written code that we can run whenever 
 We can also pass values to the function that we want it to use. The values that we "pass" to a function are called **arguments**. In the example above, `const greeting = prompt('enter your name');` the argument is `'enter your name'`. Our arguments always appear inside the parenthesis.
 
 > "Functions are a more advanced concept, and it's important that we get the fundamentals down first before we dive into functions too deeply. It's completely okay if all this terminology doesn't make sense right now.
-
+>
 > "The important thing to understand is that the `prompt` function opens a pop-up dialogue in the web browser and prompts the user for some input. The string we pass in as an argument is used inside of the pop-up dialogue."
 
 What do you think happens to the value we type into the prompt window? Does it get stored anywhere?

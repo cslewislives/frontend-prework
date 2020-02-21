@@ -1,8 +1,8 @@
 # Flowchart Conditionals - Activity
 
-![Flowchart Conditionals](../../../.gitbook/assets/image%20%2837%29.png)
+![Flowchart Conditionals](https://github.com/cslewislives/frontend-prework/tree/7c7bc1ab2155c31482f755a757c91f4efcc6e770/.gitbook/assets/image%20%2837%29.png)
 
-Make sure you attempt the activity on your own before checking out the solution. 
+Make sure you attempt the activity on your own before checking out the solution.
 
 {% tabs %}
 {% tab title="Instructions" %}
@@ -18,9 +18,7 @@ Using a pencil and paper or a flowcharting software, design the following progra
 {% endtab %}
 
 {% tab title="Solution" %}
-![Over 21](../../../.gitbook/assets/over-21.png)
-
-
+![Over 21](https://github.com/cslewislives/frontend-prework/tree/7c7bc1ab2155c31482f755a757c91f4efcc6e770/.gitbook/assets/over-21.png)
 
 **All** programming problems essentially can be broken down into these components \(plus 1 or 2 more\):
 

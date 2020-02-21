@@ -1,12 +1,12 @@
 # Bootstrap Grid
 
- In Bootstrap **all** content is organized in rows and columns.
+In Bootstrap **all** content is organized in rows and columns.
 
-Columns fit inside of rows. Rows fit inside containers. Columns are defined by the number of "spans" they take up, with a **total** of 12 spans. 
+Columns fit inside of rows. Rows fit inside containers. Columns are defined by the number of "spans" they take up, with a **total** of 12 spans.
 
 ![](https://lh3.googleusercontent.com/SCOUFM7MGE3TRR7vU8JuxQyY7n7avpORdKeO234UBW-j0ffulRuRhi9CgC_hLoCELtnXkW4_lGog9FQSkKZpMM-C8i1QTiucz7q0CjdGlq6iwqxdXyFWQnOmnnxYloV8PbsXOVUl-50)
 
-Bootstrap lets you organize content based on the “number of columns” a div spans – out of a total 12 columns. 
+Bootstrap lets you organize content based on the “number of columns” a div spans – out of a total 12 columns.
 
 **EXAMPLE:**
 
@@ -33,7 +33,7 @@ Every Bootstrap Grid is made up of:
 For more info check out: [https://www.w3schools.com/bootstrap/bootstrap\_grid\_basic.asp](https://www.w3schools.com/bootstrap/bootstrap_grid_basic.asp)
 {% endhint %}
 
-### Setting up the Code:
+## Setting up the Code:
 
 * Rows always go inside of the larger container. And columns ALWAYS go inside the rows.
 * The "formula" for column classes is `col-*size*-*span*`, and `span` is any integer between 1 and 12. All column `spans` in a row add up to 12.
@@ -44,7 +44,7 @@ For more info check out: [https://www.w3schools.com/bootstrap/bootstrap\_grid\_b
 ```markup
 <!-- Creates the Overall Grid -->
 <div class="container">
-  
+
   <!-- First Row -->
   <div class="row">
 
@@ -76,7 +76,7 @@ For more info check out: [https://www.w3schools.com/bootstrap/bootstrap\_grid\_b
 {% tab title="Browser" %}
 What this code looks like in the browser:
 
-![](../../../.gitbook/assets/image%20%282%29.png)
+![](https://github.com/cslewislives/frontend-prework/tree/7c7bc1ab2155c31482f755a757c91f4efcc6e770/.gitbook/assets/image%20%282%29.png)
 {% endtab %}
 {% endtabs %}
 
