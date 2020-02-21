@@ -1,6 +1,6 @@
 # Box Model - Activity
 
-![Box Model](https://github.com/cslewislives/frontend-prework/tree/7c7bc1ab2155c31482f755a757c91f4efcc6e770/.gitbook/assets/image.png)
+![Box Model](../../../.gitbook/assets/activity.png)
 
 Head to [this JSBin link](https://jsbin.com/yudidic/3/edit?html,css,output) and follow the instructions below:
 

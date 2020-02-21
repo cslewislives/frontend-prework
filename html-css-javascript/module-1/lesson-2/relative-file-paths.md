@@ -130,7 +130,7 @@ body {
 {% tab title="Browser" %}
 It creates this in the browser:
 
-![](https://github.com/cslewislives/frontend-prework/tree/7c7bc1ab2155c31482f755a757c91f4efcc6e770/.gitbook/assets/image%20%2859%29.png)
+![](../../../.gitbook/assets/image%20%2821%29.png)
 {% endtab %}
 {% endtabs %}
 
@@ -144,7 +144,7 @@ The link should now look like this:
 
 Both versions of the `href` are known as Relative File paths. They look for files _relative_ to the current page.
 
-![](https://github.com/cslewislives/frontend-prework/tree/7c7bc1ab2155c31482f755a757c91f4efcc6e770/.gitbook/assets/image%20%2844%29.png)
+![](../../../.gitbook/assets/image%20%2820%29.png)
 
 In the above image you'll notice that the `style.css` and the `index.html` files are in separate folders. to reference the `assets` folder from inside the `pages` folder you must us the `../` command. This means to go up one level in the folder structure.
 

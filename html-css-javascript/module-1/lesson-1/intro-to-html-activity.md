@@ -4,7 +4,7 @@ description: Test what you've learned!
 
 # Intro to HTML - Activity
 
-![Intro to HTML](https://github.com/cslewislives/frontend-prework/tree/7c7bc1ab2155c31482f755a757c91f4efcc6e770/.gitbook/assets/image%20%2837%29.png)
+![Intro to HTML](../../../.gitbook/assets/activity.png)
 
 We strongly suggest you attempt this activity on your own before reviewing the Solution Code.
 
@@ -14,7 +14,7 @@ Head to [this JSBin link](https://jsbin.com/xahonej/1/edit?html,output) and foll
 {% tab title="Instructions" %}
 Create a basic HTML page with your own information that looks similar to this image:
 
-![](https://github.com/cslewislives/frontend-prework/tree/7c7bc1ab2155c31482f755a757c91f4efcc6e770/.gitbook/assets/image%20%2882%29.png)
+![](../../../.gitbook/assets/image%20%286%29.png)
 {% endtab %}
 
 {% tab title="Solution Code" %}

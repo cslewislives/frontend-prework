@@ -37,7 +37,7 @@ h1 {
 {% tab title="Browser" %}
 Due to the specificity of the class the browser will render this:
 
-![](https://github.com/cslewislives/frontend-prework/tree/7c7bc1ab2155c31482f755a757c91f4efcc6e770/.gitbook/assets/image%20%2876%29.png)
+![](../../../.gitbook/assets/image%20%2840%29.png)
 {% endtab %}
 {% endtabs %}
 

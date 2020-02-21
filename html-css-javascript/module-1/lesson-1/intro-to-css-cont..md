@@ -42,7 +42,7 @@ description: Still Making it Pretty
 {% tab title="Browser" %}
 It should look like this:
 
-![](https://github.com/cslewislives/frontend-prework/tree/7c7bc1ab2155c31482f755a757c91f4efcc6e770/.gitbook/assets/image%20%2881%29.png)
+![](../../../.gitbook/assets/image%20%281%29.png)
 {% endtab %}
 {% endtabs %}
 
@@ -77,7 +77,7 @@ It should look like this:
 {% tab title="Browser" %}
 This is what it looks like:
 
-![](https://github.com/cslewislives/frontend-prework/tree/7c7bc1ab2155c31482f755a757c91f4efcc6e770/.gitbook/assets/image%20%2832%29.png)
+![](../../../.gitbook/assets/image.png)
 {% endtab %}
 {% endtabs %}
 

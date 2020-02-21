@@ -1,9 +1,11 @@
 # CSS Combinators - Activity
 
-![CSS Combinators](https://github.com/cslewislives/frontend-prework/tree/7c7bc1ab2155c31482f755a757c91f4efcc6e770/.gitbook/assets/image.png)
+![CSS Combinators](../../../.gitbook/assets/activity.png)
+
+{% file src="../../../.gitbook/assets/css-combinators.zip" caption="CSS Combinators" %}
 
 {% tabs %}
-
+{% tab title="Instructions" %}
 **Instructions:**
 
 Using the files provided
@@ -15,6 +17,12 @@ Using the files provided
 5. Give `#div1` and `#div2` a border without adding the border to all divs.
 
 Check out the video below to see the solution in action:
+{% endtab %}
 
-{% embed url="https://www.youtube.com/watch?v=NmcZ0J5WoWI&feature=youtu.be" caption="" %}
+{% tab title="Solution Video" %}
+Check out the video below to see the solution in action:
+
+{% embed url="https://youtu.be/NmcZ0J5WoWI" %}
+{% endtab %}
+{% endtabs %}
 

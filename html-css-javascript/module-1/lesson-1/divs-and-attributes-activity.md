@@ -1,6 +1,6 @@
 # Divs and Attributes - Activity
 
-![Divs and Attributes](https://github.com/cslewislives/frontend-prework/tree/7c7bc1ab2155c31482f755a757c91f4efcc6e770/.gitbook/assets/image%20%2860%29.png)
+![Divs and Attributes](../../../.gitbook/assets/activity.png)
 
 ## Instructions:
 

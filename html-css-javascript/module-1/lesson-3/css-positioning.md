@@ -58,7 +58,7 @@ Within CSS there are a few ways to position your content on the screen. They are
 {% tab title="Browser" %}
 Static CSS:
 
-![](https://github.com/cslewislives/frontend-prework/tree/7c7bc1ab2155c31482f755a757c91f4efcc6e770/.gitbook/assets/image%20%28100%29.png)
+![](../../../.gitbook/assets/image%20%284%29.png)
 {% endtab %}
 {% endtabs %}
 
@@ -131,7 +131,7 @@ Static CSS:
 {% tab title="Browser" %}
 Relative CSS:
 
-![](https://github.com/cslewislives/frontend-prework/tree/7c7bc1ab2155c31482f755a757c91f4efcc6e770/.gitbook/assets/image%20%28106%29.png)
+![](../../../.gitbook/assets/image%20%2810%29.png)
 {% endtab %}
 {% endtabs %}
 
@@ -212,7 +212,7 @@ Relative CSS:
 {% tab title="Browser" %}
 Absolute CSS:
 
-![](https://github.com/cslewislives/frontend-prework/tree/7c7bc1ab2155c31482f755a757c91f4efcc6e770/.gitbook/assets/image%20%2863%29.png)
+![](../../../.gitbook/assets/image%20%2837%29.png)
 {% endtab %}
 {% endtabs %}
 
@@ -292,7 +292,7 @@ Absolute CSS:
 {% tab title="Browser" %}
 Fixed CSS:
 
-![](https://github.com/cslewislives/frontend-prework/tree/7c7bc1ab2155c31482f755a757c91f4efcc6e770/.gitbook/assets/image%20%2815%29.png)
+![](../../../.gitbook/assets/image%20%2824%29.png)
 {% endtab %}
 {% endtabs %}
 
@@ -372,7 +372,7 @@ Fixed CSS:
 {% tab title="Browser" %}
 Z-index CSS:
 
-![](https://github.com/cslewislives/frontend-prework/tree/7c7bc1ab2155c31482f755a757c91f4efcc6e770/.gitbook/assets/image%20%2858%29.png)
+![](../../../.gitbook/assets/image%20%2834%29.png)
 {% endtab %}
 {% endtabs %}
 
@@ -442,11 +442,11 @@ Z-index CSS:
 {% tab title="Browser" %}
 Display: none CSS:
 
-![](https://github.com/cslewislives/frontend-prework/tree/7c7bc1ab2155c31482f755a757c91f4efcc6e770/.gitbook/assets/image%20%2841%29.png)
+![](../../../.gitbook/assets/image%20%2812%29.png)
 
 Visibility: hidden;
 
-![](https://github.com/cslewislives/frontend-prework/tree/7c7bc1ab2155c31482f755a757c91f4efcc6e770/.gitbook/assets/image%20%2873%29.png)
+![](../../../.gitbook/assets/image%20%2829%29.png)
 {% endtab %}
 {% endtabs %}
 

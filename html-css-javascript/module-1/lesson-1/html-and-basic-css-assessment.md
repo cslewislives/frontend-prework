@@ -2,13 +2,13 @@
 
 Before continuing with the lessons go ahead and attempt the following assessment. These will be a good way to test your understanding of the knowledge you just gained.
 
-![HTML &amp; Basic CSS Assessment](https://github.com/cslewislives/frontend-prework/tree/7c7bc1ab2155c31482f755a757c91f4efcc6e770/.gitbook/assets/image%20%2860%29.png)
+![HTML &amp; Basic CSS Assessment](../../../.gitbook/assets/activity.png)
 
 * Create a new repository called `firstName-lastName-prework` and clone it to your machine
 * Copy the provided files into the new repository in a folder titled `HTML_BasicCSS_Assessment`
 * Using the provided files above, Google and the tools you just learned, recreate the design below as closely as possible: 
 
-![Example Website](https://github.com/cslewislives/frontend-prework/tree/7c7bc1ab2155c31482f755a757c91f4efcc6e770/.gitbook/assets/css_ii.png)
+![Example Website](../../../.gitbook/assets/image%20%2831%29.png)
 
 * Push the completed files to the repository in GitHub
 

@@ -1,6 +1,6 @@
 # Dev Tools - Activity
 
-![Dev Tools](https://github.com/cslewislives/frontend-prework/tree/7c7bc1ab2155c31482f755a757c91f4efcc6e770/.gitbook/assets/image.png)
+![DevTools](../../../.gitbook/assets/activity.png)
 
 **Instructions:**
 

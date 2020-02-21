@@ -2,7 +2,7 @@
 
 Before continuing with the lessons go ahead and attempt the following assessment. These will be a good way to test your understanding of the knowledge you just gained.
 
-![CSS Assessment](https://github.com/cslewislives/frontend-prework/tree/7c7bc1ab2155c31482f755a757c91f4efcc6e770/.gitbook/assets/image%20%2860%29.png)
+![CSS Assessment](../../../.gitbook/assets/activity.png)
 
 **Instructions**
 
@@ -17,7 +17,7 @@ Goals:
 * The second box should take up 1/4th of the width of the browser and align right. Add the text, "Right" inside of this box and ensure that the text is aligned in the center horizontally and vertically.
 * Create a footer bar \(a box that spans the width of the browser and sits at the bottom of the page\).
 
-![](https://github.com/cslewislives/frontend-prework/tree/7c7bc1ab2155c31482f755a757c91f4efcc6e770/.gitbook/assets/assessment.png)
+![](../../../.gitbook/assets/image%20%2843%29.png)
 
 * Push the completed files to the repository on GitHub
 

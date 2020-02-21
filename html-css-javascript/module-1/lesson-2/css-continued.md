@@ -150,19 +150,19 @@ Uncomment the different selectors to see them in action
 {% tab title="Browser" %}
 Descendant Selector:
 
-![](https://github.com/cslewislives/frontend-prework/tree/7c7bc1ab2155c31482f755a757c91f4efcc6e770/.gitbook/assets/image%20%2886%29.png)
+![](../../../.gitbook/assets/image%20%2813%29.png)
 
 Child Selector:
 
-![](https://github.com/cslewislives/frontend-prework/tree/7c7bc1ab2155c31482f755a757c91f4efcc6e770/.gitbook/assets/image%20%2893%29.png)
+![](../../../.gitbook/assets/image%20%2838%29.png)
 
 Adjacent Sibling Selector:
 
-![](https://github.com/cslewislives/frontend-prework/tree/7c7bc1ab2155c31482f755a757c91f4efcc6e770/.gitbook/assets/image%20%2825%29.png)
+![](../../../.gitbook/assets/image%20%2825%29.png)
 
 General Sibling Selector:
 
-![](https://github.com/cslewislives/frontend-prework/tree/7c7bc1ab2155c31482f755a757c91f4efcc6e770/.gitbook/assets/image%20%2818%29.png)
+![](../../../.gitbook/assets/image%20%285%29.png)
 {% endtab %}
 {% endtabs %}
 

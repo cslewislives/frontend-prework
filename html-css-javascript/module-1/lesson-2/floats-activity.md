@@ -1,12 +1,14 @@
 # Floats - Activity
 
-![Floats](https://github.com/cslewislives/frontend-prework/tree/7c7bc1ab2155c31482f755a757c91f4efcc6e770/.gitbook/assets/image%20%2837%29.png)
+![Floats](../../../.gitbook/assets/activity.png)
 
 ## Instructions <a id="instructions"></a>
 
+{% file src="../../../.gitbook/assets/stu\_float.zip" caption="Floats ACtivity" %}
+
 Using `floats.html` and `floats.css`, in the folder above as a starting point, work together with your partner to create the missing CSS necessary to form the following layout:
 
-![](https://github.com/cslewislives/frontend-prework/tree/7c7bc1ab2155c31482f755a757c91f4efcc6e770/.gitbook/assets/example.png)
+![](../../../.gitbook/assets/image%20%2835%29.png)
 
 This will not be easy so work at it as best you can. This is a challenging activity. At the very least, try to increase your understanding of CSS properties.
 

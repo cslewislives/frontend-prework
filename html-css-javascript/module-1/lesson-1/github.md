@@ -23,24 +23,24 @@ An explanation of why version control software like GitHub is important can be f
 * Head over to [https://github.com/ ](https://github.com/)and register for an account.
 * Create a new repository using either of these buttons:
 
-![](../../../.gitbook/assets/image%20%2815%29.png)
+![](../../../.gitbook/assets/image%20%2842%29.png)
 
-![](../../../.gitbook/assets/image%20%289%29.png)
+![](../../../.gitbook/assets/image%20%2819%29.png)
 
 * Give the repository a name and make sure to initialize with a README
 
-![](../../../.gitbook/assets/image%20%287%29.png)
+![](../../../.gitbook/assets/image%20%2817%29.png)
 
 * Click on clone or download and copy the link
 
-![](../../../.gitbook/assets/image.png)
+![](../../../.gitbook/assets/image%20%287%29.png)
 
 * In terminal, or GitBash,`cd` into the directory where you want your repo to live
 * Clone the repo using `git clone <repo link>`
 
-![](../../../.gitbook/assets/image%20%285%29.png)
+![](../../../.gitbook/assets/image%20%2815%29.png)
 
-![](../../../.gitbook/assets/image%20%288%29.png)
+![](../../../.gitbook/assets/image%20%2818%29.png)
 
 Now that you have cloned the repo onto your machine you should see the new folder graphically.
 
@@ -58,7 +58,7 @@ Once you have new files added we will need to push them to our GitHub repo in or
   * Ex: `git commit -m "adds button functionality"` or `"fixes error messaging"`
 * Push the changes using `git push origin master`
 
-![](../../../.gitbook/assets/image%20%2812%29.png)
+![](../../../.gitbook/assets/image%20%2833%29.png)
 
-![](../../../.gitbook/assets/image%20%2811%29.png)
+![](../../../.gitbook/assets/image%20%2832%29.png)
 
