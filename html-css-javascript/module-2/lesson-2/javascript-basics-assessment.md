@@ -2,7 +2,7 @@
 
 Before continuing with the lessons go ahead and attempt the following assessment. These will be a good way to test your understanding of the knowledge you just gained.
 
-![JavaScript Basics](https://github.com/cslewislives/frontend-prework/tree/7c7bc1ab2155c31482f755a757c91f4efcc6e770/.gitbook/assets/image%20%2860%29.png)
+![JavaScript Basics](../../../.gitbook/assets/activity.png)
 
 ## **Instructions:**
 

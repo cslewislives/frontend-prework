@@ -42,5 +42,5 @@ Be sure to modify the following CSS properties for each paragraph of your page:
 
 You can breakout the output of the JSBin by clicking this button:
 
-![](https://github.com/cslewislives/frontend-prework/tree/7c7bc1ab2155c31482f755a757c91f4efcc6e770/.gitbook/assets/image%20%2897%29.png)
+![](../../../.gitbook/assets/image%20%281%29.png)
 

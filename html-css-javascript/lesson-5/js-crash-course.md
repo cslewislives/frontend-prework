@@ -40,11 +40,11 @@ int[] numArr = {1, 2, 3, 4};
 
 JavaScript also allows you to change the content of a variable. Java does not.
 
-![](https://github.com/cslewislives/frontend-prework/tree/7c7bc1ab2155c31482f755a757c91f4efcc6e770/.gitbook/assets/image%20%28108%29.png)
+![](../../.gitbook/assets/image%20%2836%29.png)
 
 JavaScript also has a value that is assigned to all uninitialized variables, `undefined`, Java does not.
 
-![](https://github.com/cslewislives/frontend-prework/tree/7c7bc1ab2155c31482f755a757c91f4efcc6e770/.gitbook/assets/image%20%2870%29.png)
+![](../../.gitbook/assets/image%20%2855%29.png)
 
 {% hint style="info" %}
 `System.out.println()`is used the same as `console.log()`

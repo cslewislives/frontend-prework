@@ -29,7 +29,7 @@ Conditionals often involve a comparative operator like `>`, `<`, or `===`.
 
 This is how we represent a conditional in a flowchart.
 
-![](https://github.com/cslewislives/frontend-prework/tree/7c7bc1ab2155c31482f755a757c91f4efcc6e770/.gitbook/assets/conditional2.png)
+![](../../../.gitbook/assets/image%20%2812%29.png)
 
 If `num` equals `10`, we display "best number", otherwise we display "other number".
 

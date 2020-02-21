@@ -4,11 +4,11 @@ We'll spend a few moments showing you how to utilize the simplest of Bootstrap C
 
 Head to [https://getbootstrap.com/](https://getbootstrap.com/)
 
-![](https://github.com/cslewislives/frontend-prework/tree/7c7bc1ab2155c31482f755a757c91f4efcc6e770/.gitbook/assets/6-bootstrapdemo_1.png)
+![](../../../.gitbook/assets/image%20%2871%29.png)
 
 Grab the CSS CDN content
 
-![](https://github.com/cslewislives/frontend-prework/tree/7c7bc1ab2155c31482f755a757c91f4efcc6e770/.gitbook/assets/6-bootstrapdemo_2.png)
+![](../../../.gitbook/assets/image%20%2830%29.png)
 
 Add the CDN to an HTML file
 
@@ -32,13 +32,13 @@ Head to the Documentation section, then to Components in the left pane.
 
 Scroll down to buttons and notice the basic options for creating buttons.
 
-![](https://github.com/cslewislives/frontend-prework/tree/7c7bc1ab2155c31482f755a757c91f4efcc6e770/.gitbook/assets/6-bootstrapdemo_4.png)
+![](../../../.gitbook/assets/image%20%2858%29.png)
 
 Scroll to the Examples section and notice the differences between primary, success, danger, etc. buttons
 
 Scroll a bit further and notice the options for sizing
 
-![](https://github.com/cslewislives/frontend-prework/tree/7c7bc1ab2155c31482f755a757c91f4efcc6e770/.gitbook/assets/6-bootstrapdemo_6.png)
+![](../../../.gitbook/assets/image%20%2883%29.png)
 
 Use the button class names found there as a model for creating a fancier button. Use those classes on the HTML below.
 
@@ -57,7 +57,7 @@ Use the button class names found there as a model for creating a fancier button.
 {% endtab %}
 
 {% tab title="Browser" %}
-![](https://github.com/cslewislives/frontend-prework/tree/7c7bc1ab2155c31482f755a757c91f4efcc6e770/.gitbook/assets/6-bootstrapdemo_7.png)
+![](../../../.gitbook/assets/image.png)
 {% endtab %}
 {% endtabs %}
 
@@ -85,7 +85,7 @@ Then run the html in the browser and take a look at the fancier buttons.
 {% endtab %}
 
 {% tab title="Browser" %}
-![](https://github.com/cslewislives/frontend-prework/tree/7c7bc1ab2155c31482f755a757c91f4efcc6e770/.gitbook/assets/6-bootstrapdemo_8.png)
+![](../../../.gitbook/assets/image%20%2842%29.png)
 {% endtab %}
 {% endtabs %}
 

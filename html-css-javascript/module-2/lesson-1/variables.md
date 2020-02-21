@@ -1,6 +1,6 @@
 # Variables
 
-## What, When, and Why
+### What, When, and Why
 
 Variables are the nouns of JavaScript. They are named containers that we can refer to by name to access the stored data inside.
 
@@ -8,7 +8,7 @@ Using variables keeps us from having to retype data over and over. Instead, we c
 
 Let's say you wanted to store pi to 50 decimal places. Later on, you'll want to refer to pi in 50 decimal places but instead of retyping or even copying and pasting, you could store the data in a variable and just refer to that variable name.
 
-## Writing Variables
+### Writing Variables
 
 We've seen values of type `number` like `4`, `7.2`, and `9` and values of type `String` like `'This is a string'` and `'potato'`, and also values of type `boolean` like `true` or `false`, and we can enter these into the console and combine them with operators to make expressions that evaluate to some new value like `2 * 4` which evaluates to `8`.
 
@@ -58,7 +58,7 @@ An analogy that may help you visualize variables:
 
 In this analogy, "boxes" are variables, and the "items" are their values and the goblin is the JavaScript engine.
 
-![Attic Goblin](https://github.com/cslewislives/frontend-prework/tree/7c7bc1ab2155c31482f755a757c91f4efcc6e770/.gitbook/assets/attic.png)
+![](../../../.gitbook/assets/attic.png)
 
 _Why_ might we want to store a value in a variable?
 

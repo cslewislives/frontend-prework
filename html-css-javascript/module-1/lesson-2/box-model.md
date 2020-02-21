@@ -4,7 +4,7 @@ In CSS, every element can be considered to fit within a series of boxes. Each bo
 
 The box model applies to all elements whether they are text, images, div sections, etc.
 
-![The Box Model](../../../.gitbook/assets/image%20%2839%29.png)
+![The Box Model](../../../.gitbook/assets/image%20%2874%29.png)
 
 ## Calculate Size
 
@@ -14,11 +14,11 @@ Using the image below, calculate the size of the Blue Box:
 {% tab title="Question" %}
 Make sure you calculate the size both ways, including margins and not including margins.
 
-![](../../../.gitbook/assets/image%20%2827%29.png)
+![](../../../.gitbook/assets/image%20%2852%29.png)
 {% endtab %}
 
 {% tab title="Answer" %}
-![](../../../.gitbook/assets/image%20%2826%29.png)
+![](../../../.gitbook/assets/image%20%2851%29.png)
 {% endtab %}
 {% endtabs %}
 

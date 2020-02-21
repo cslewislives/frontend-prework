@@ -14,7 +14,7 @@ Head to [this JSBin link](https://jsbin.com/xahonej/1/edit?html,output) and foll
 {% tab title="Instructions" %}
 Create a basic HTML page with your own information that looks similar to this image:
 
-![](../../../.gitbook/assets/image%20%286%29.png)
+![](../../../.gitbook/assets/image%20%2817%29.png)
 {% endtab %}
 
 {% tab title="Solution Code" %}

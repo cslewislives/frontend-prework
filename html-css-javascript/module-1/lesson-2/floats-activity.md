@@ -8,7 +8,7 @@
 
 Using `floats.html` and `floats.css`, in the folder above as a starting point, work together with your partner to create the missing CSS necessary to form the following layout:
 
-![](../../../.gitbook/assets/image%20%2835%29.png)
+![](../../../.gitbook/assets/image%20%2866%29.png)
 
 This will not be easy so work at it as best you can. This is a challenging activity. At the very least, try to increase your understanding of CSS properties.
 

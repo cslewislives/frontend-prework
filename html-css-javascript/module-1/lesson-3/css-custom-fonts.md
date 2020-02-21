@@ -9,15 +9,15 @@ Many sources \(like Google\) offer font-faces online for free that can be incorp
 * Navigate to the [Google Fonts](https://www.google.com/fonts) web page and find a font-face students like.
 * Hit the "Quick Use" button.
 
-![](https://github.com/cslewislives/frontend-prework/tree/7c7bc1ab2155c31482f755a757c91f4efcc6e770/.gitbook/assets/2-googlefonts_1.png)
+![](../../../.gitbook/assets/image%20%2864%29.png)
 
 * Select a few font-weights
 
-![](https://github.com/cslewislives/frontend-prework/tree/7c7bc1ab2155c31482f755a757c91f4efcc6e770/.gitbook/assets/2-googlefonts_2.png)
+![](../../../.gitbook/assets/image%20%2850%29.png)
 
 * Scroll down the page and notice how Google offers two links you need: one for the HTML page and one for the CSS file. Grab both of these links.
 
-![](https://github.com/cslewislives/frontend-prework/tree/7c7bc1ab2155c31482f755a757c91f4efcc6e770/.gitbook/assets/2-googlefonts_3.png)
+![](../../../.gitbook/assets/image%20%2835%29.png)
 
 * Open an HTML and add in the HTML reference link provided by Google
 

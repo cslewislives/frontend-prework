@@ -12,7 +12,7 @@ We need to combine our HTML, CSS, and JavaScript to get data from the server to 
 
 The **DOM** \(Document Object Model\) is a data representation of the HTML that is rendered to the page. Often represented using a tree.
 
-![](https://github.com/cslewislives/frontend-prework/tree/7c7bc1ab2155c31482f755a757c91f4efcc6e770/.gitbook/assets/image%20%2834%29.png)
+![](../../../.gitbook/assets/image%20%2845%29.png)
 
 We can observe a visual representation of the DOM when we open the **Elements** tab in Chrome Devtools.
 
@@ -101,7 +101,7 @@ Notice how the list is being rendered:
 * We're setting the `innerHTML` property, rather than the `innerText` property in this case.
 * `innerHTML` differs from `innerText` in that it can be used to update all of the content inside of an element, text and HTML tags as strings.
 
-## `querySelectorAll`
+### `querySelectorAll`
 
 Notice that `querySelector()` retrieves a single element, but sometimes we want to perform an operation on _all_ the elements with a certain class or _all_ the `p` elements.
 

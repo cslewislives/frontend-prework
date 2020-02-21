@@ -42,7 +42,7 @@ description: Still Making it Pretty
 {% tab title="Browser" %}
 It should look like this:
 
-![](../../../.gitbook/assets/image%20%281%29.png)
+![](../../../.gitbook/assets/image%20%283%29.png)
 {% endtab %}
 {% endtabs %}
 
@@ -77,7 +77,7 @@ It should look like this:
 {% tab title="Browser" %}
 This is what it looks like:
 
-![](../../../.gitbook/assets/image.png)
+![](../../../.gitbook/assets/image%20%282%29.png)
 {% endtab %}
 {% endtabs %}
 

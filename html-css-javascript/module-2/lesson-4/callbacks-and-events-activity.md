@@ -1,10 +1,12 @@
 # Callbacks and Events - Activity
 
-![Callbacks and Events](https://github.com/cslewislives/frontend-prework/tree/7c7bc1ab2155c31482f755a757c91f4efcc6e770/.gitbook/assets/image%20%284%29.png)
+![Callbacks and Events](../../../.gitbook/assets/activity.png)
 
 Make sure you attempt the activity on your own before checking out the solution.
 
 {% tabs %}
+{% tab title="Instructions" %}
+{% file src="../../../.gitbook/assets/callbacks-and-events.zip" %}
 
 **Instructions**
 
@@ -22,7 +24,9 @@ Add an element in your HTML with an id of `display` and update this element's te
 **HINT**
 
 Check out [W3School's list of DOM Events](https://www.w3schools.com/jsref/dom_obj_event.asp) to find the appropriate event to listen for.
+{% endtab %}
 
+{% tab title="JS Solution" %}
 ```javascript
 const myFunction = function(event) {
   console.log('Hooray!!')
@@ -37,7 +41,9 @@ const testElement = document.querySelector('#test');
 // Add an event listener that triggers `myFunction` when the mouse enters the `#test` element.
 testElement.addEventListener('mouseenter', myFunction);
 ```
+{% endtab %}
 
+{% tab title="HTML Solution" %}
 ```markup
 <!DOCTYPE html>
 <html lang="en">
@@ -55,4 +61,6 @@ testElement.addEventListener('mouseenter', myFunction);
 </body>
 </html>
 ```
+{% endtab %}
+{% endtabs %}
 

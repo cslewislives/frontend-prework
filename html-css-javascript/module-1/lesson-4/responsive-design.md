@@ -132,11 +132,11 @@ body {
 {% tab title="Browser" %}
 Full size view:
 
-![](https://github.com/cslewislives/frontend-prework/tree/7c7bc1ab2155c31482f755a757c91f4efcc6e770/.gitbook/assets/image%20%2877%29.png)
+![](../../../.gitbook/assets/image%20%2880%29.png)
 
 Resized view:
 
-![](https://github.com/cslewislives/frontend-prework/tree/7c7bc1ab2155c31482f755a757c91f4efcc6e770/.gitbook/assets/image%20%2810%29.png)
+![](../../../.gitbook/assets/image%20%2832%29.png)
 {% endtab %}
 {% endtabs %}
 

@@ -6,7 +6,7 @@ For example, we may want to alert `'You win'` if a user's score is greater than 
 
 As our code gets more complex, it's essential that you start relying on your flowcharting skills. Remember to flowchart during every activity.
 
-![](https://github.com/cslewislives/frontend-prework/tree/7c7bc1ab2155c31482f755a757c91f4efcc6e770/.gitbook/assets/conditional.png)
+![](../../../.gitbook/assets/image%20%2857%29.png)
 
 Note how we are controlling the flow in our program. Now look at the code below and notice how it maps to the above flowchart
 

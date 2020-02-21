@@ -22,7 +22,7 @@ The grid is made up of rows and columns. Columns run from left to right accross 
 
 It's important to break down websites into rows and columns.
 
-![](https://github.com/cslewislives/frontend-prework/tree/7c7bc1ab2155c31482f755a757c91f4efcc6e770/.gitbook/assets/image%20%287%29.png)
+![](../../../.gitbook/assets/image%20%2811%29.png)
 
 How many rows and columns do you see?
 

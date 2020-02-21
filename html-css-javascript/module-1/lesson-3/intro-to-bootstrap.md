@@ -16,7 +16,7 @@ Familiarize yourself with the UI features it offers via the documentation.
 
 Once Bootstrap is active, you can simply copy snippets from the documentation to save yourself major time of creating elements yourself.
 
-![](https://github.com/cslewislives/frontend-prework/tree/7c7bc1ab2155c31482f755a757c91f4efcc6e770/.gitbook/assets/image%20%2813%29.png)
+![](../../../.gitbook/assets/image%20%2827%29.png)
 
 The above site was created without the developer needing to write a single line of CSS.
 
@@ -158,7 +158,7 @@ This CSS file has pre-styled "classes" which are styled whenever you call an ele
 {% endtab %}
 
 {% tab title="Jumbotron Browser" %}
-![](https://github.com/cslewislives/frontend-prework/tree/7c7bc1ab2155c31482f755a757c91f4efcc6e770/.gitbook/assets/image%20%2867%29.png)
+![](../../../.gitbook/assets/image%20%2810%29.png)
 {% endtab %}
 {% endtabs %}
 

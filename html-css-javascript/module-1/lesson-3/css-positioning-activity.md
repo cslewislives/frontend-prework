@@ -1,6 +1,6 @@
 # CSS Positioning - Activity
 
-![CSS Positioning](https://github.com/cslewislives/frontend-prework/tree/7c7bc1ab2155c31482f755a757c91f4efcc6e770/.gitbook/assets/image.png)
+![CSS Positioning](../../../.gitbook/assets/activity.png)
 
 ## Instructions: <a id="instructions"></a>
 
@@ -8,7 +8,7 @@ Create a file called `positioning.html` and a file called `positioning.css`.
 
 Using HTML/CSS, create the layout shown on the screen.
 
-![](https://github.com/cslewislives/frontend-prework/tree/7c7bc1ab2155c31482f755a757c91f4efcc6e770/.gitbook/assets/02-stu_positioning.png)
+![](../../../.gitbook/assets/image%20%2814%29.png)
 
 For reference, the colors used on the screen are `#eee` and `#999`.
 

@@ -150,19 +150,19 @@ Uncomment the different selectors to see them in action
 {% tab title="Browser" %}
 Descendant Selector:
 
-![](../../../.gitbook/assets/image%20%2813%29.png)
+![](../../../.gitbook/assets/image%20%2824%29.png)
 
 Child Selector:
 
-![](../../../.gitbook/assets/image%20%2838%29.png)
+![](../../../.gitbook/assets/image%20%2872%29.png)
 
 Adjacent Sibling Selector:
 
-![](../../../.gitbook/assets/image%20%2825%29.png)
+![](../../../.gitbook/assets/image%20%2849%29.png)
 
 General Sibling Selector:
 
-![](../../../.gitbook/assets/image%20%285%29.png)
+![](../../../.gitbook/assets/image%20%2816%29.png)
 {% endtab %}
 {% endtabs %}
 

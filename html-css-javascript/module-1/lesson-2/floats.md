@@ -6,7 +6,7 @@ description: Floats are pretty tricky.
 
 ## Flow
 
-![](../../../.gitbook/assets/image%20%282%29.png)
+![](../../../.gitbook/assets/image%20%286%29.png)
 
 Flow is the idea that every single element — text, images, links, sections, etc. — all take up a set amount of space on the screen.
 
@@ -18,7 +18,7 @@ Unfortunately there is no 'drag-and-drop' in web development just yet, and the t
 
 By default, web clients render many HTML elements as block elements. Paragraphs, headers, divs and more receive this treatment.
 
-![](../../../.gitbook/assets/image%20%2828%29.png)
+![](../../../.gitbook/assets/image%20%2853%29.png)
 
 A block element will take up an entire line of space—unless you intervene with CSS properties
 
@@ -26,7 +26,7 @@ A block element will take up an entire line of space—unless you intervene with
 
 By using float CSS properties, we can command our website to display multiple HTML elements adjacently.
 
-![](../../../.gitbook/assets/image%20%2830%29.png)
+![](../../../.gitbook/assets/image%20%2859%29.png)
 
 Float "forces" elements to the side you specify.
 
@@ -43,7 +43,7 @@ In its simplest use, the `float` property can be used to wrap text around images
 
 Floated elements are taken out of the normal flow of the document. This can lead to some unexpected side effects.
 
-![](../../../.gitbook/assets/image%20%283%29.png)
+![](../../../.gitbook/assets/image%20%288%29.png)
 
 If an element is taller than the element containing it, and it is floated, it will overflow outside of its container.
 

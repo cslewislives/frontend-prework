@@ -4,7 +4,7 @@
 
 Web applications are composed of 3 major components
 
-![](../../../.gitbook/assets/image%20%2811%29.png)
+![](../../../.gitbook/assets/image%20%2822%29.png)
 
 * **Databases**
   * Store data.  
@@ -20,7 +20,7 @@ Web applications are composed of 3 major components
 
 What language belongs to which component?
 
-![](../../../.gitbook/assets/image%20%289%29.png)
+![](../../../.gitbook/assets/image%20%2820%29.png)
 
 The next modules and lessons will be focusing on the client-side or **Front-end** languages:
 

@@ -76,7 +76,7 @@ For more info check out: [https://www.w3schools.com/bootstrap/bootstrap\_grid\_b
 {% tab title="Browser" %}
 What this code looks like in the browser:
 
-![](https://github.com/cslewislives/frontend-prework/tree/7c7bc1ab2155c31482f755a757c91f4efcc6e770/.gitbook/assets/image%20%282%29.png)
+![](../../../.gitbook/assets/image%20%287%29.png)
 {% endtab %}
 {% endtabs %}
 

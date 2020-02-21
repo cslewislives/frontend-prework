@@ -18,7 +18,7 @@ For example, navigate to[ Google.com](https://www.google.com/) and right click o
 
 A set of windows will open that appear similar to the following:
 
-![](../../../.gitbook/assets/image%20%2822%29.png)
+![](../../../.gitbook/assets/image%20%2846%29.png)
 
 Two panes appear at the bottom of the web page. The pane on the bottom left contains the HTML elements found on the Google home page. From the image, you can see that `<img>` tag for the Google banner is high-lighted.
 

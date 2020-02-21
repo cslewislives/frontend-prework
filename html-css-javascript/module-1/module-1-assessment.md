@@ -28,15 +28,15 @@ With these initial steps complete, it is time to start building your Basic-Portf
 
 * About Me - index.html
 
-![About Me Page](https://github.com/cslewislives/frontend-prework/tree/7c7bc1ab2155c31482f755a757c91f4efcc6e770/.gitbook/assets/portfolio-about-me.png)
+![About Me Page](../../.gitbook/assets/image%20%2833%29.png)
 
 * Contact Me - contact.html
 
-![Contact Me Page](https://github.com/cslewislives/frontend-prework/tree/7c7bc1ab2155c31482f755a757c91f4efcc6e770/.gitbook/assets/portfolio-contact.png)
+![Contact Me Page](../../.gitbook/assets/image%20%2876%29.png)
 
 * Portfolio Gallery - portfolio.html
 
-![Portfolio Gallery](https://github.com/cslewislives/frontend-prework/tree/7c7bc1ab2155c31482f755a757c91f4efcc6e770/.gitbook/assets/portfolio-gallery.png)
+![Portfolio Gallery](../../.gitbook/assets/image%20%2873%29.png)
 
 {% hint style="info" %}
 **IMPORTANT** Your site's layout must match the designs in these screenshots. You'll find the specs for these designs below.

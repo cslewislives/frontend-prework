@@ -1,6 +1,6 @@
 # Flowcharts and Fundamentals - Activity
 
-![Flowcharts and Fundamentals](https://github.com/cslewislives/frontend-prework/tree/7c7bc1ab2155c31482f755a757c91f4efcc6e770/.gitbook/assets/image%20%284%29.png)
+![Flowcharts and Fundamentals](../../../.gitbook/assets/activity.png)
 
 Make sure you attempt the activity on your own before checking out the solution.
 
@@ -17,7 +17,7 @@ Using a pencil and paper or a flowcharting software like [draw.io](https://www.d
 
 1. A program that takes in a number, multiplies it by itself, subtracts 4, and outputs the result.
 
-## Instructions Part 2:
+### Instructions Part 2:
 
 Have you ever logged into a website and the landing page greets you by name? Let's look at designing that functionality.
 
@@ -29,23 +29,25 @@ For example, if the user input 'Luciana', the program would display 'Welcome Luc
 {% endtab %}
 
 {% tab title="Solution" %}
-## Part 1:
+### Part 1:
 
 Program 1:
 
-![Double the Number](https://github.com/cslewislives/frontend-prework/tree/7c7bc1ab2155c31482f755a757c91f4efcc6e770/.gitbook/assets/multiply.png)
+![Double the Number](../../../.gitbook/assets/image%20%2844%29.png)
 
 Program 2:
 
-![Divide the Number](https://github.com/cslewislives/frontend-prework/tree/7c7bc1ab2155c31482f755a757c91f4efcc6e770/.gitbook/assets/divide.png)
+![Divide the Number](../../../.gitbook/assets/image%20%2869%29.png)
 
 Challenge:
 
-![Challenge](https://github.com/cslewislives/frontend-prework/tree/7c7bc1ab2155c31482f755a757c91f4efcc6e770/.gitbook/assets/flow-challenge.png)
+![](../../../.gitbook/assets/image%20%2831%29.png)
 
-## Part 2:
+### Part 2:
 
-![Input String](https://github.com/cslewislives/frontend-prework/tree/7c7bc1ab2155c31482f755a757c91f4efcc6e770/.gitbook/assets/input-concat.png)
+![](../../../.gitbook/assets/image%20%2839%29.png)
 {% endtab %}
 {% endtabs %}
+
+
 

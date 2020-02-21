@@ -26,7 +26,7 @@ Let's start with storing data. In programming, we store data in something called
 
 In JavaScript we can store a few different types of data. The first type we'll look at is `numbers`. In our flowchart if we want to store a number in a box named `num1` we denote this by creating a rectangle with the notation `number:num1`. The first part reminds us that this box should store a number and the second part is the boxes name."
 
-![num1](https://github.com/cslewislives/frontend-prework/tree/7c7bc1ab2155c31482f755a757c91f4efcc6e770/.gitbook/assets/num1.png)
+![num1](../../../.gitbook/assets/num1.png)
 
 A variable can switch from holding a number to holding a word or another type of value. However this is a bad practice, so it's good to get into the habit of noting which type of value each variable should hold when they are designing their programs with flowcharts.
 
@@ -36,15 +36,15 @@ Next let's look at manipulating data. We can manipulate number data using all yo
 
 There is also the assignment operator `=`. The assignment operator allows us to put values into the box \(variable\) that we've created. **Remember** we need a variable-box to hold any data that we don't want to immediately lose.
 
-![num1 Assignment](https://github.com/cslewislives/frontend-prework/tree/7c7bc1ab2155c31482f755a757c91f4efcc6e770/.gitbook/assets/num1_assign.png)
+![num1 Assignment](../../../.gitbook/assets/num1_assign.png)
 
 The first program above stores the number 4 in a variable called `num1`.
 
-![num2 Assignment](https://github.com/cslewislives/frontend-prework/tree/7c7bc1ab2155c31482f755a757c91f4efcc6e770/.gitbook/assets/num2_assign.png)
+![num2 Assignment](../../../.gitbook/assets/num2_assign.png)
 
 The next program shown above stores the number 4 in a variable called `num1` and the number 6 in a variable called `num2`. The arrows indicate the order in which the operations take place.
 
-![sum Program](https://github.com/cslewislives/frontend-prework/tree/7c7bc1ab2155c31482f755a757c91f4efcc6e770/.gitbook/assets/sum.png)
+![sum Program](../../../.gitbook/assets/sum.png)
 
 The last program stores the number 4 in a variable called `num1`, the number 6 in a variable called `num2` and the sum of those two numbers in a variable called `sum`.
 
@@ -56,7 +56,7 @@ If you answered `10` then you are correct!
 
 The above program is pretty useless. The purpose of most applications is to provide some service to the user, but the user can't even see the sum in this program.
 
-![render](https://github.com/cslewislives/frontend-prework/tree/7c7bc1ab2155c31482f755a757c91f4efcc6e770/.gitbook/assets/render.png)
+![render](../../../.gitbook/assets/render.png)
 
 The above image represents a program that adds 2 numbers and displays that sum.
 
@@ -70,7 +70,7 @@ For example, let's say we want to write a program that waits for a user to input
 
 Or maybe we want to build an employee directory that adds an employee to the database only when a user inputs new employee information and clicks the `add` button.
 
-![Event Listener](https://github.com/cslewislives/frontend-prework/tree/7c7bc1ab2155c31482f755a757c91f4efcc6e770/.gitbook/assets/listener.png)
+![Event Listener](../../../.gitbook/assets/listener.png)
 
 The above image represents a program that stores the number `4` as a variable called `num1`. It then waits for the user to click a button. The right arrow indicates that the logic to the right will only run once the user clicks the button.
 
@@ -88,7 +88,7 @@ We can, of course, store values other than numbers. Two other primitive types of
 
 For now we'll focus on strings. The primary way we manipulate strings is with **concatenation**. That is adding two or more strings together.
 
-![Concatenation](https://github.com/cslewislives/frontend-prework/tree/7c7bc1ab2155c31482f755a757c91f4efcc6e770/.gitbook/assets/concat.png)
+![Concatenation](../../../.gitbook/assets/concat.png)
 
 The above program stores the string 'Hey' in a variable called `greeting` and the string 'Casey' in a variable called `name`, it then concatenates the two strings and stores the resulting string in a variable called `message`. The `message` is then displayed.
 

@@ -17,7 +17,7 @@ Goals:
 * The second box should take up 1/4th of the width of the browser and align right. Add the text, "Right" inside of this box and ensure that the text is aligned in the center horizontally and vertically.
 * Create a footer bar \(a box that spans the width of the browser and sits at the bottom of the page\).
 
-![](../../../.gitbook/assets/image%20%2843%29.png)
+![](../../../.gitbook/assets/image%20%2882%29.png)
 
 * Push the completed files to the repository on GitHub
 

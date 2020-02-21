@@ -37,7 +37,7 @@ Push the above changes to GitHub.
    4. Letters Already Guessed: \(Letters the user has guessed, displayed like `L Z Y H`\).
 5. After the user wins/loses the game should automatically choose another word and make the user play it.
 
-## **Word Guess Game Bonuses**
+### **Word Guess Game Bonuses**
 
 1. Play a sound or song when the user guesses their word correctly, like in our demo.
 2. Write some stylish CSS rules to make a design that fits your game's theme.
@@ -48,7 +48,7 @@ Push the above changes to GitHub.
    4. Don't forget to place your global variables and functions above your object.
       * Remember: global variables, then objects, then calls.
 
-## **A Few Tips**
+### **A Few Tips**
 
 1. **IMPORTANT:** Code your game one piece at a time! Code all of your apps one piece at a time. _Always code one piece at a time!_
 2. Flowchart/pseudocode your program and break the app down into tiny, manageable fragments. This will make the coding process much less frustrating and a veritable Mach number faster. Otherwise, you'll be chipping away at a giant chunk of abstraction for way too many hours.
@@ -66,11 +66,11 @@ Push the above changes to GitHub.
    * **Commit often**.
 8. Turn in anything you have! Even if you don't finish, we still want to see what you were able to accomplish in the time we gave you.
 
-## Minimum Requirements
+### Minimum Requirements
 
 Attempt to complete the assessment as described in instructions. If unable to complete certain portions, please pseudocode these portions to describe what remains to be completed. Adding a README.md as is required as well and more information can be found below.
 
-## Create a README.md
+### Create a README.md
 
 Add a `README.md` to your repository describing the project. Here are some resources for creating your `README.md`. Here are some resources to help you along the way:
 

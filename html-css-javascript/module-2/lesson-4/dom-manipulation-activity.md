@@ -1,10 +1,12 @@
 # DOM Manipulation - Activity
 
-![DOM Manipulation](https://github.com/cslewislives/frontend-prework/tree/7c7bc1ab2155c31482f755a757c91f4efcc6e770/.gitbook/assets/image%20%2896%29.png)
+![DOM Manipulation](../../../.gitbook/assets/activity.png)
 
 As always attempt the activity yourself before checking out the solution.
 
 {% tabs %}
+{% tab title="Instructions" %}
+{% file src="../../../.gitbook/assets/dom\_manipulation.zip" caption="DOM Manipulation Files" %}
 
 **Instructions:**
 
@@ -23,7 +25,9 @@ The `#interests` element should be updated with the `innerHTML` property. For th
 * If you are unsure about the value of a variable, print it to the console!
 * Be careful about how you name your variables! It's common for code not to work due to a typo, casing matters!
 * Refer to the previous example if you get stuck!
+{% endtab %}
 
+{% tab title="JS Solution" %}
 ```javascript
 // Prompt the user for some information
 const name = prompt('What is your name?');
@@ -58,4 +62,6 @@ for (let i = 0; i < interests.length; i++) {
 // Set the inner HTML of the interestUL to the interestHTML string
 interestUL.innerHTML = interestHTML;
 ```
+{% endtab %}
+{% endtabs %}
 
